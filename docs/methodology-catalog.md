@@ -13,6 +13,7 @@
 
 | 名称 | 公司 | 提出年份 | 状态 |
 |---|---|---|---|
+| MECE / 议题树 | industry-wide / McKinsey | 1970 | draft |
 
 ## Tools
 
