@@ -29,6 +29,7 @@ related_methods:
   - "[[porters-five-forces]]"
   - "[[monitor-three-tests]]"
   - "[[oc-c-where-to-play-how-to-win]]"
+  - "[[roland-berger-premium-strategy]]"
 tags:
   - strategy
   - positioning

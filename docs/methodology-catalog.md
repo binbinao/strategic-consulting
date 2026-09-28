@@ -25,6 +25,8 @@
 | Booz 能力驱动战略 | Booz Allen Hamilton / Wharton Mack Institute | 2000 | draft |
 | 凯纳战略适配度 | A.T. Kearney | 2005 | draft |
 | OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | draft |
+| 罗兰贝格高端战略 | Roland Berger | 2005 | draft |
+| 奥纬咨询企业风险管理 | Oliver Wyman | 2005 | draft |
 
 ## Processes
 
@@ -42,3 +44,4 @@
 | PESTEL 分析 | industry-wide / Francis Aguilar | 1967 | draft |
 | 客户费力度评分 | CEBM / industry-wide | 2010 | draft |
 | 客户之声 | industry-wide | 1990 | draft |
+| 奥纬咨询风险定价 | Oliver Wyman | 2010 | draft |

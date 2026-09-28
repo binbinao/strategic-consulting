@@ -8,3 +8,4 @@
 
 | 名称 | 类型 | 状态 |
 |---|---|---|
+| [罗兰贝格高端战略](../frameworks/roland-berger-premium-strategy.md) | framework | draft |

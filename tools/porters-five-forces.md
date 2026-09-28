@@ -25,6 +25,7 @@ related_methods:
   - "[[value-chain]]"
   - "[[pestel]]"
   - "[[kearney-strategic-fitness]]"
+  - "[[oliver-wyman-enterprise-risk-management]]"
 tags:
   - industry-analysis
   - strategy

@@ -28,6 +28,8 @@ limitations:
 related_methods:
   - "[[porters-five-forces]]"
   - "[[adl-value-migration]]"
+  - "[[oliver-wyman-risk-based-pricing]]"
+  - "[[oliver-wyman-enterprise-risk-management]]"
 tags:
   - macro-environment
   - strategy

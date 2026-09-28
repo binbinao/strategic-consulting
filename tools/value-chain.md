@@ -27,6 +27,7 @@ related_methods:
   - "[[adl-value-migration]]"
   - "[[booz-capabilities-driven-strategy]]"
   - "[[kearney-strategic-fitness]]"
+  - "[[oliver-wyman-risk-based-pricing]]"
 tags:
   - strategy
   - diagnostic

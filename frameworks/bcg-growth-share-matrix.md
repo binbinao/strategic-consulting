@@ -30,6 +30,7 @@ related_methods:
   - "[[monitor-three-tests]]"
   - "[[kearney-strategic-fitness]]"
   - "[[oc-c-where-to-play-how-to-win]]"
+  - "[[roland-berger-premium-strategy]]"
 tags:
   - portfolio
   - strategy
