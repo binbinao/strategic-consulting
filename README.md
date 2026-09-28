@@ -115,33 +115,24 @@ python3 -m pytest tests/ -v
 
 ## 已收录方法论
 
-| 方法论 | 类型 | 首发 | 提出年份 | 状态 |
-|---|---|---|---|---|
-| 麦肯锡 7S | framework | McKinsey & Company | 1978 | draft |
-| BCG 增长矩阵 | framework | Boston Consulting Group | 1970 | draft |
-| 贝恩净推荐值体系 | framework | Bain & Company | 2003 | draft |
-| 葛鲁伯星模型 | framework | Jay Galbraith | 1970 | draft |
-| BCG 组织优势 | framework | Boston Consulting Group | 1980 | draft |
-| GE / 麦肯锡矩阵 | framework | General Electric / McKinsey & Company | 1979 | draft |
-| 阿什里奇组合展示 | framework | Ashridge | 1990 | draft |
-| ADL 矩阵 | framework | Arthur D. Little | 1973 | draft |
-| 明托金字塔原理 | framework | Barbara Minto | 1973 | draft |
-| MECE / 议题树 | process | industry-wide / McKinsey | 1970 | draft |
-| 假设驱动问题解决 | process | industry-wide / McKinsey & Company | 1980 | draft |
-| 波特五力 | tool | Michael Porter (Harvard) | 1979 | draft |
-| 价值链分析 | tool | Michael Porter (Harvard) | 1985 | draft |
-| PESTEL 分析 | tool | industry-wide / Francis Aguilar | 1967 | draft |
-| 客户费力度评分 | tool | CEBM / industry-wide | 2010 | draft |
-| 客户之声 | tool | industry-wide | 1990 | draft |
+当前共 **21 张**：14 个 framework + 2 个 process + 5 个 tool，涵盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
 
-完整清单（含所有未来卡片）见 [`docs/methodology-catalog.md`](docs/methodology-catalog.md)。当前共 16 张：9 个 framework + 2 个 process + 5 个 tool。
+**第三批新增（5 张 MBB 招牌 framework）**：
+
+| 方法论 | 首发 | 提出年份 | 类型 |
+|---|---|---|---|
+| BCG 经验曲线 | Boston Consulting Group | 1968 | framework |
+| 麦肯锡三horizons增长框架 | McKinsey & Company | 1999 | framework |
+| 波特三战略 | Michael Porter (Harvard) | 1980 | framework |
+| BCG 智能简化 | Boston Consulting Group | 2013 | framework |
+| 贝恩可复制业务模型 | Bain & Company | 2005 | framework |
 
 ## 路线图
 
-**前两批已交付**（共 16 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
+**前三批已交付**（共 21 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
 
 1. **首批卡片的 fact-check + 个人批注**（所有者主导）—— 跑通 owner 端完整流程
-2. **进入第三批：覆盖 MBB + 四大其他招牌方法**——7S、NPS 只是开始
+2. **覆盖 MBB + 四大其他招牌方法**——前三批已铺底 BCG Experience Curve、Smart Simplicity、Porter Generic Strategies、Bain Repeatable Model 等；下一步可补 BCG / Bain 漏网方法（如 BCG Time-Based Competition）
 3. **覆盖老牌战略所的招牌方法**——Roland Berger、Monitor、AT Kearney 等
 4. **中文本土咨询方法**（远期）—— 君智、华与华、和君、华夏基石等是否单独一层？见 spec §14
 
