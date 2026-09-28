@@ -8,6 +8,7 @@
 |---|---|---|---|
 | 麦肯锡 7S | McKinsey & Company | 1978 | draft |
 | BCG 增长矩阵 | Boston Consulting Group | 1970 | draft |
+| 贝恩净推荐值体系 | Bain & Company | 2003 | draft |
 
 ## Processes
 

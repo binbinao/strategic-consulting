@@ -8,3 +8,4 @@
 
 | 名称 | 类型 | 状态 |
 |---|---|---|
+| [贝恩净推荐值体系](../frameworks/bain-net-promoter-system.md) | framework | draft |
