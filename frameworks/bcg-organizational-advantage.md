@@ -25,6 +25,7 @@ limitations:
 related_methods:
   - "[[mckinsey-7s]]"
   - "[[galbraith-star-model]]"
+  - "[[bcg-smart-simplicity]]"
 tags:
   - organizational
   - strategic-fit

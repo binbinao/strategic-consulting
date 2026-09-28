@@ -9,3 +9,4 @@
 | 名称 | 类型 | 状态 |
 |---|---|---|
 | [贝恩净推荐值体系](../frameworks/bain-net-promoter-system.md) | framework | draft |
+| [贝恩可复制业务模型](../frameworks/bain-repeatable-model.md) | framework | draft |

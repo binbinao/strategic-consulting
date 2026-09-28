@@ -24,6 +24,7 @@ limitations:
 related_methods:
   - "[[galbraith-star-model]]"
   - "[[bcg-organizational-advantage]]"
+  - "[[bcg-smart-simplicity]]"
 tags:
   - organizational
   - diagnostic
