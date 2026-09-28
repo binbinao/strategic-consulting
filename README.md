@@ -18,3 +18,13 @@
 2. 按 `docs/schema.md` 写 frontmatter，按卡片模板填 body
 3. 更新对应 `by-company/*.md` 和 `docs/methodology-catalog.md`
 4. 状态流转：`draft` → `fact-checked` → `annotated`
+
+## 已完成方法论（首批 5 张）
+
+- 麦肯锡 7S（McKinsey）
+- BCG 增长矩阵（BCG）
+- 波特五力（Michael Porter / Harvard）
+- MECE / 议题树（行业通用 / McKinsey canonical）
+- 贝恩净推荐值体系（Bain）
+
+完整列表见 `docs/methodology-catalog.md`。
