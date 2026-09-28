@@ -1,0 +1,5 @@
+*.md linguist-documentation
+*.md linguist-language=Markdown
+docs/* linguist-documentation
+AGENTS.md linguist-documentation
+README.md linguist-documentation
