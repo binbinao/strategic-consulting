@@ -18,6 +18,7 @@
 2. 按 `docs/schema.md` 写 frontmatter，按卡片模板填 body
 3. 更新对应 `by-company/*.md` 和 `docs/methodology-catalog.md`
 4. 状态流转：`draft` → `fact-checked` → `annotated`
+   - 单所有者工作流下 happy path 通常是 `draft → annotated`；`fact-checked` 用于所有者想先把事实层交叉核对、暂时不写个人批注的中间态。
 
 ## 已完成方法论（首批 5 张）
 

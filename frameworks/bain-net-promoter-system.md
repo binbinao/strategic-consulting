@@ -80,7 +80,7 @@ status: draft
 
 - **配套**：Customer Effort Score（CES）衡量交互难易，Voice-of-Customer（PM）补充定性反馈
 - **演进**：Bain 后续推出 NPS 3、Loyalty Ecosystem 框架
-- **批评后续**：部分学者主张用 Customer Lifetime Value 替代 NPS
+- **批评后续**：部分学者主张用 Customer Lifetime Value / 客户终身价值 替代 NPS
 
 ## 个人批注
 
