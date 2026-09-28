@@ -23,7 +23,9 @@ limitations:
   - "跨文化可比性弱——不同地区推荐意愿基线不同"
   - "[争议] NPS 与业务增长的强因果关系被部分学术研究质疑"
   - "[争议] '被动者 (Passives)' 的处理过于粗放"
-related_methods: []
+related_methods:
+  - "[[customer-effort-score]]"
+  - "[[voice-of-customer]]"
 tags:
   - customer-experience
   - metric

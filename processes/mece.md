@@ -25,6 +25,7 @@ limitations:
   - "[争议] 强 MECE 在探索阶段可能过早收敛"
 related_methods:
   - "[[minto-pyramid-principle]]"
+  - "[[hypothesis-driven-problem-solving]]"
 tags:
   - problem-solving
   - structure
