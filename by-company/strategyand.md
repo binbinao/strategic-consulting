@@ -8,3 +8,4 @@
 
 | 名称 | 类型 | 状态 |
 |---|---|---|
+| [Booz 能力驱动战略](../frameworks/booz-capabilities-driven-strategy.md) | framework | draft |

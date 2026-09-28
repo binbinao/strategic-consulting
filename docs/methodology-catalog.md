@@ -20,6 +20,9 @@
 | 波特三战略 | Michael Porter (Harvard) | 1980 | draft |
 | BCG 智能简化 | Boston Consulting Group | 2013 | draft |
 | 贝恩可复制业务模型 | Bain & Company | 2005 | draft |
+| Monitor 三测试 | Monitor Group | 1987 | draft |
+| ADL 价值迁移 | Adrian Slywotzky | 1996 | draft |
+| Booz 能力驱动战略 | Booz Allen Hamilton / Wharton Mack Institute | 2000 | draft |
 
 ## Processes
 
