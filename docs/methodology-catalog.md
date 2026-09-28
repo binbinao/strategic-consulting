@@ -6,6 +6,7 @@
 
 | 名称 | 公司 | 提出年份 | 状态 |
 |---|---|---|---|
+| 麦肯锡 7S | McKinsey & Company | 1978 | draft |
 
 ## Processes
 
