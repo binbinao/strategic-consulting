@@ -27,6 +27,7 @@ limitations:
   - "[需核实] 完整 6 维版本 (PESTEL) 普及时间晚于 Aguilar 1967 原始 4 维 (PEST)"
 related_methods:
   - "[[porters-five-forces]]"
+  - "[[adl-value-migration]]"
 tags:
   - macro-environment
   - strategy

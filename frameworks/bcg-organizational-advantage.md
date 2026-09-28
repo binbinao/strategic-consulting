@@ -26,6 +26,7 @@ related_methods:
   - "[[mckinsey-7s]]"
   - "[[galbraith-star-model]]"
   - "[[bcg-smart-simplicity]]"
+  - "[[booz-capabilities-driven-strategy]]"
 tags:
   - organizational
   - strategic-fit

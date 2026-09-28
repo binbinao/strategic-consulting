@@ -27,6 +27,7 @@ related_methods:
   - "[[ge-mckinsey-matrix]]"
   - "[[ashridge-portfolio-display]]"
   - "[[adl-matrix]]"
+  - "[[monitor-three-tests]]"
 tags:
   - portfolio
   - strategy

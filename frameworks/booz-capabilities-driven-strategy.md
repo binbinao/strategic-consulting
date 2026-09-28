@@ -25,7 +25,9 @@ limitations:
   - "与 Prahalad & Hamel 的'核心竞争力'（1990）概念高度重叠，独立价值被质疑"
   - "[争议] 是否过度聚焦'差异化能力'——忽视通用能力的运营卓越"
   - "[需核实] Booz Allen Hamilton 与 Wharton Mack Institute 合作的具体首发文献（HBR 文章或书籍）[需核实]"
-related_methods: []
+related_methods:
+  - "[[value-chain]]"
+  - "[[bcg-organizational-advantage]]"
 tags:
   - strategy
   - capability
@@ -39,7 +41,7 @@ status: draft
 
 ## 起源与定位
 
-1990s 后期至 2000s 由 Booz Allen Hamilton 的战略实践线（Booz & Company，2014 年并入 PwC 形成 Strategy&）与宾夕法尼亚大学沃顿商学院的 Mack Institute for Technological Innovation 共同发展 [需核实]。代表人物包括 Booz 一侧的 Cynthia Hardy、Ian MacMillan 与 Wharton 一侧的 Ravi Dhar 等 [需核实]。Booz Allen Hamilton 在该时期将"能力驱动战略"作为服务客户的标志性方法之一，发表于 HBR 与公司白皮书 [需核实]。该方法承接 Prahalad & Hamel 1990 年提出的"核心竞争力"思路，并进一步操作化为可咨询交付的诊断流程。
+1990s 后期至 2000s 由 Booz Allen Hamilton 的战略实践线（Booz & Company，2014 年并入 PwC 形成 Strategy&）与宾夕法尼亚大学沃顿商学院的 Mack Institute for Technological Innovation 共同发展 [需核实]。代表人物包括 Booz Allen Hamilton 与 Wharton Mack Institute for Technological Innovation 的多位顾问（具体署名 [需核实]）。Booz Allen Hamilton 在该时期将"能力驱动战略"作为服务客户的标志性方法之一，发表于 HBR 与公司白皮书 [需核实]。该方法承接 Prahalad & Hamel 1990 年提出的"核心竞争力"思路，并进一步操作化为可咨询交付的诊断流程。
 
 ## 核心内容
 

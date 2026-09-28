@@ -27,6 +27,7 @@ limitations:
   - "[争议] 现代战略流派（如 W. Chan Kim 的蓝海）主张打破取舍逻辑"
 related_methods:
   - "[[porters-five-forces]]"
+  - "[[monitor-three-tests]]"
 tags:
   - strategy
   - positioning

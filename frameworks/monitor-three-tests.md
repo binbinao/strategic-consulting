@@ -22,7 +22,11 @@ limitations:
   - "'客户价值'主观性强，依赖调研与客户感知，容易被销售声音替代"
   - "[争议] 是否过度强调'客户已表达的需求'——忽视客户尚未表达但潜在需要的能力"
   - "[需核实] 三测试在不同 Goold / Campbell 出版物中的具体表述存在微调"
-related_methods: []
+related_methods:
+  - "[[porter-generic-strategies]]"
+  - "[[bcg-growth-share-matrix]]"
+  - "[[adl-matrix]]"
+  - "[[bain-net-promoter-system]]"
 tags:
   - strategy
   - diagnostic
@@ -36,7 +40,7 @@ status: draft
 
 ## 起源与定位
 
-1987 年由 Michael Goold 与 Andrew Campbell（均为 Monitor Group 顾问）在《Strategies and Styles: CEOs and the Choices That Shape Corporate Strategy》中首次系统提出。Monitor Group 由 Michael Porter、Hendrik A. C. Ewig 等人于 1983 年创立，是 1990 年代后期到 2000 年代初与 BCG、McKinsey 并称的"战略三巨头"之外的重要策略咨询力量。Monitor Group 于 2013 年被 Deloitte 收购，并入"Monitor Deloitte"。Goold 与 Campbell 1990 年代后续在《Designing Effective Organizations》中将三测试扩展到组织设计层面，在《The Hard Side of Strategic Management》中进一步延伸到战略落地执行侧。
+1987 年由 Michael Goold 与 Andrew Campbell（均为 Monitor Group 顾问）在《Strategies and Styles: CEOs and the Choices That Shape Corporate Strategy》中首次系统提出。Monitor Group 由 Michael Porter、Mark Fuller 等人于 1983 年创立，是 1990 年代后期到 2000 年代初与 BCG、McKinsey 并称的"战略三巨头"之外的重要策略咨询力量。Monitor Group 于 2013 年被 Deloitte 收购，并入"Monitor Deloitte"。Goold 与 Campbell 1990 年代后续在《Designing Effective Organizations》中将三测试扩展到组织设计层面，在《The Hard Side of Strategic Management》中进一步延伸到战略落地执行侧。
 
 ## 核心内容
 

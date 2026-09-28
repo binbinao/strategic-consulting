@@ -3,6 +3,7 @@ name: ADL 价值迁移
 name_en: Value Migration
 source_company:
   - Adrian Slywotzky
+  - Mercer Management Consulting
 category: framework
 created_year: 1996
 one_line_summary: 描述价值（利润、定价权、增长机会）在行业、产业链环节与价值链位置之间动态迁移的思考框架。
@@ -23,7 +24,10 @@ limitations:
   - "[争议] 强调'颠覆'与'大迁移'，容易忽视渐进式价值再分配的累积效应"
   - "'价值域'边界判定主观——分析师划定的边界会影响迁移方向判断"
   - "[需核实] 原书 1996 年首版销量与行业影响力的具体数字 [需核实]"
-related_methods: []
+related_methods:
+  - "[[value-chain]]"
+  - "[[pestel]]"
+  - "[[adl-matrix]]"
 tags:
   - strategy
   - value
@@ -37,7 +41,7 @@ status: draft
 
 ## 起源与定位
 
-1996 年由 Adrian Slywotzky 在 Arthur D. Little 工作期间出版的《Value Migration: How to Think About Moments of Grand Change》（Harvard Business Review Press）中系统化提出。Adrian Slywotzky 是 Mercer Management Consulting 与 Arthur D. Little 的资深合伙人，以"价值迁移 / 利润区"系列著作闻名。虽 Slywotzky 当时在 ADL 工作，但价值迁移作为独立的理论品牌归属于其个人，按项目"个人作者优先"的约定录入。后续 Slywotzky 在《The Profit Zone》《Demand: Creating What People Love Before They Know They Want It》中延续同一思路。
+1996 年由 Adrian Slywotzky 在 Mercer Management Consulting 工作期间出版的《Value Migration: How to Think About Moments of Grand Change》（Harvard Business Review Press）中系统化提出 [需核实]。Adrian Slywotzky 是 Mercer Management Consulting（后并入 Oliver Wyman）的资深合伙人，以"价值迁移 / 利润区"系列著作闻名。Mercer 与 Arthur D. Little 之间是否存在合作或人员关联 [需核实]。虽后续 Mercer 在 2007 年与 Oliver Wyman 合并，但价值迁移作为独立的理论品牌归属于其个人，按项目"个人作者优先"的约定录入。后续 Slywotzky 在《The Profit Zone》《Demand: Creating What People Love Before They Know They Want It》中延续同一思路。
 
 ## 核心内容
 

@@ -24,6 +24,8 @@ limitations:
   - "[争议] 1980s 后 Porter 自己扩展出'价值系统'，把活动扩展到跨企业边界"
 related_methods:
   - "[[porters-five-forces]]"
+  - "[[adl-value-migration]]"
+  - "[[booz-capabilities-driven-strategy]]"
 tags:
   - strategy
   - diagnostic

@@ -26,6 +26,7 @@ limitations:
 related_methods:
   - "[[customer-effort-score]]"
   - "[[voice-of-customer]]"
+  - "[[monitor-three-tests]]"
 tags:
   - customer-experience
   - metric

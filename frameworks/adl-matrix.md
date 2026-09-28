@@ -26,6 +26,8 @@ limitations:
 related_methods:
   - "[[bcg-growth-share-matrix]]"
   - "[[ge-mckinsey-matrix]]"
+  - "[[monitor-three-tests]]"
+  - "[[adl-value-migration]]"
 tags:
   - portfolio
   - strategy
