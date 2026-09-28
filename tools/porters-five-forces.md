@@ -24,6 +24,7 @@ related_methods:
   - "[[porter-generic-strategies]]"
   - "[[value-chain]]"
   - "[[pestel]]"
+  - "[[kearney-strategic-fitness]]"
 tags:
   - industry-analysis
   - strategy

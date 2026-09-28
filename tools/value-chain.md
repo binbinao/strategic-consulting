@@ -26,6 +26,7 @@ related_methods:
   - "[[porters-five-forces]]"
   - "[[adl-value-migration]]"
   - "[[booz-capabilities-driven-strategy]]"
+  - "[[kearney-strategic-fitness]]"
 tags:
   - strategy
   - diagnostic

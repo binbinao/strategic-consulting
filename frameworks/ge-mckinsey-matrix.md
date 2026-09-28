@@ -27,6 +27,8 @@ related_methods:
   - "[[bcg-growth-share-matrix]]"
   - "[[adl-matrix]]"
   - "[[ashridge-portfolio-display]]"
+  - "[[kearney-strategic-fitness]]"
+  - "[[oc-c-where-to-play-how-to-win]]"
 tags:
   - portfolio
   - strategy

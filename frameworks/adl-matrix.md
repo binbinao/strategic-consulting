@@ -28,6 +28,7 @@ related_methods:
   - "[[ge-mckinsey-matrix]]"
   - "[[monitor-three-tests]]"
   - "[[adl-value-migration]]"
+  - "[[oc-c-where-to-play-how-to-win]]"
 tags:
   - portfolio
   - strategy

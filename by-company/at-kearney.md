@@ -8,3 +8,4 @@
 
 | 名称 | 类型 | 状态 |
 |---|---|---|
+| [凯纳战略适配度](../frameworks/kearney-strategic-fitness.md) | framework | draft |

@@ -28,6 +28,8 @@ related_methods:
   - "[[ashridge-portfolio-display]]"
   - "[[adl-matrix]]"
   - "[[monitor-three-tests]]"
+  - "[[kearney-strategic-fitness]]"
+  - "[[oc-c-where-to-play-how-to-win]]"
 tags:
   - portfolio
   - strategy
