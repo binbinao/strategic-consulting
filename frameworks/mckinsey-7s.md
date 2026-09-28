@@ -21,9 +21,7 @@ limitations:
   - "Soft S 难以量化，咨询团队易给客户贴没验证的标签"
   - "被批评为'什么都能往里塞'，区分度低；和 Galbraith Star Model 重叠度高"
   - "[争议] 一些研究者认为 Shared Values 应当是结果而非独立要素"
-related_methods:
-  - "[[galbraith-star-model]]"
-  - "[[bcg-organizational-advantage]]"
+related_methods: []
 tags:
   - organizational
   - diagnostic

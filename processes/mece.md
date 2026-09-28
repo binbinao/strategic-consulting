@@ -23,9 +23,7 @@ limitations:
   - "强制 MECE 可能错过非正交的关系"
   - "拆分质量取决于分析师对问题的先验理解"
   - "[争议] 强 MECE 在探索阶段可能过早收敛"
-related_methods:
-  - "[[hypothesis-driven-problem-solving]]"
-  - "[[minto-pyramid-principle]]"
+related_methods: []
 tags:
   - problem-solving
   - structure

@@ -20,9 +20,7 @@ limitations:
   - "静态视角——忽略技术变革、政策变化对结构的颠覆"
   - "[争议] 五种力量之间的相互作用被低估；现实中往往是相互强化"
   - "依赖分析者的判断，主观性强"
-related_methods:
-  - "[[value-chain]]"
-  - "[[pestel]]"
+related_methods: []
 tags:
   - industry-analysis
   - strategy

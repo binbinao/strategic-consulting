@@ -22,10 +22,7 @@ limitations:
   - "被广泛批评为过度简化，被催生了'杀死 BCG 矩阵'的反思浪潮"
   - "[争议] '经验曲线'假设在服务业、平台经济中不成立"
   - "[争议] 1970s 后续 BCG 自己也在修正，强调需结合行业生命周期等其他框架"
-related_methods:
-  - "[[ge-mckinsey-matrix]]"
-  - "[[ashridge-portfolio-display]]"
-  - "[[adl-matrix]]"
+related_methods: []
 tags:
   - portfolio
   - strategy
