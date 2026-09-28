@@ -115,28 +115,29 @@ python3 -m pytest tests/ -v
 
 ## 已收录方法论
 
-当前共 **26 张**：19 个 framework + 2 个 process + 5 个 tool，覆盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法，以及老牌战略所（Monitor / ADL / Booz / Kearney / OC&C）的招牌方法（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
+当前共 **29 张**：21 个 framework + 2 个 process + 6 个 tool，覆盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法，以及老牌战略所（Monitor / ADL / Booz / Kearney / OC&C / Roland Berger / Oliver Wyman）的招牌方法（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
 
-**第四批新增（5 张老牌战略所招牌 framework）**：
+**第五批新增（3 张老牌战略所招牌方法 + 1 张工具）**：
 
 | 方法论 | 首发 | 提出年份 | 类型 |
 |---|---|---|---|
-| Monitor 三测试 | Monitor Group | 1987 | framework |
-| ADL 价值迁移 | Adrian Slywotzky（Mercer Management Consulting） | 1996 | framework |
-| Booz 能力驱动战略 | Booz Allen Hamilton / Wharton Mack Institute | 2000 | framework |
-| 凯纳战略适配度 | A.T. Kearney | 2005 | framework |
-| OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | framework |
+| 罗兰贝格高端战略 | Roland Berger | 2005 | framework |
+| 奥纬咨询企业风险管理 | Oliver Wyman | 2005 | framework |
+| 奥纬咨询风险定价 | Oliver Wyman | 2010 | tool |
+
+**第四批新增（5 张老牌战略所招牌 framework）**：Monitor 三测试（1987）、ADL 价值迁移（1996）、Booz 能力驱动战略（2000）、凯纳战略适配度（2005）、OC&C Where to Play / How to Win（2005）。
 
 **第三批新增（5 张 MBB 招牌 framework）**：BCG 经验曲线（1968）、麦肯锡三horizons增长框架（1999）、波特三战略（1980）、BCG 智能简化（2013）、贝恩可复制业务模型（2005）。
 
 ## 路线图
 
-**前四批已交付**（共 26 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
+**前五批已交付**（共 29 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
 
 1. **首批卡片的 fact-check + 个人批注**（所有者主导）—— 跑通 owner 端完整流程
 2. **覆盖 MBB + 四大其他招牌方法**——前三批已铺底 BCG Experience Curve、Smart Simplicity、Porter Generic Strategies、Bain Repeatable Model 等；下一步可补 BCG / Bain 漏网方法（如 BCG Time-Based Competition）
-3. **覆盖老牌战略所的招牌方法**——第四批已交付 Monitor 三测试、ADL 价值迁移、Booz 能力驱动战略、凯纳战略适配度、OC&C Where to Play / How to Win；下一步可补 Roland Berger / Oliver Wyman 等漏网方法
-4. **中文本土咨询方法**（远期）—— 君智、华与华、和君、华夏基石等是否单独一层？见 spec §14
+3. **覆盖老牌战略所的招牌方法**——第四、五批已交付 Monitor 三测试、ADL 价值迁移、Booz 能力驱动战略、凯纳战略适配度、OC&C Where to Play / How to Win、罗兰贝格高端战略、奥纬咨询 ERM / 风险定价，本路线图项已完结
+4. **四大咨询方法首入**（下一批次候选）—— Deloitte / Accenture Strategy / PwC Strategy& / EY-Parthenon 目前 `by-company/` 索引均为空，下一批可首入四大招牌方法（如 Deloitte Business Chemistry、EY-Parthenon Corporate Finance、Accenture Industry X 等）
+5. **中文本土咨询方法**（远期）—— 君智、华与华、和君、华夏基石等是否单独一层？见 spec §14
 
 **已明确延后的字段**（spec §14）：`case_examples`、`evolution_history`、单独的 `comparisons/` 目录。
 
