@@ -10,3 +10,4 @@
 |---|---|---|
 | [麦肯锡 7S](../frameworks/mckinsey-7s.md) | framework | draft |
 | [MECE / 议题树](../processes/mece.md) | process | draft |
+| [GE / 麦肯锡矩阵](../frameworks/ge-mckinsey-matrix.md) | framework | draft |
