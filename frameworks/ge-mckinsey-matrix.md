@@ -81,7 +81,7 @@ status: draft
 
 - **改进对象**：BCG 增长矩阵（4 格 → 9 格，从二元到连续）
 - **同期/前后**：ADL Matrix（生命周期阶段化）、Ashridge Portfolio Display（CSF 维度）
-- **替代**：Arthur D. Little 更晚期的 "价值为基础" portfolio
+- **替代**：Arthur D. Little 更晚期的 "价值为基础" portfolio [需核实]
 
 ## 个人批注
 

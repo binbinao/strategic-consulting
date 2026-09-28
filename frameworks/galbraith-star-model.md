@@ -77,7 +77,7 @@ status: draft
 ## 与其他方法论的关系
 
 - **同期方法**：麦肯锡 7S（1978），覆盖更全但诊断导向
-- **设计替代**：Weisbord Six-Box 更精简，Roger L. Simultaneous Loose-Tight Properties 更灵活
+- **设计替代**：Weisbord Six-Box 更精简
 - **应用层**：常被用于 M&A 整合（PMI）的 target operating model 设计
 
 ## 个人批注
