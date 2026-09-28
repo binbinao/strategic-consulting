@@ -115,25 +115,27 @@ python3 -m pytest tests/ -v
 
 ## 已收录方法论
 
-当前共 **21 张**：14 个 framework + 2 个 process + 5 个 tool，涵盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
+当前共 **26 张**：19 个 framework + 2 个 process + 5 个 tool，覆盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法，以及老牌战略所（Monitor / ADL / Booz / Kearney / OC&C）的招牌方法（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
 
-**第三批新增（5 张 MBB 招牌 framework）**：
+**第四批新增（5 张老牌战略所招牌 framework）**：
 
 | 方法论 | 首发 | 提出年份 | 类型 |
 |---|---|---|---|
-| BCG 经验曲线 | Boston Consulting Group | 1968 | framework |
-| 麦肯锡三horizons增长框架 | McKinsey & Company | 1999 | framework |
-| 波特三战略 | Michael Porter (Harvard) | 1980 | framework |
-| BCG 智能简化 | Boston Consulting Group | 2013 | framework |
-| 贝恩可复制业务模型 | Bain & Company | 2005 | framework |
+| Monitor 三测试 | Monitor Group | 1987 | framework |
+| ADL 价值迁移 | Adrian Slywotzky（Mercer Management Consulting） | 1996 | framework |
+| Booz 能力驱动战略 | Booz Allen Hamilton / Wharton Mack Institute | 2000 | framework |
+| 凯纳战略适配度 | A.T. Kearney | 2005 | framework |
+| OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | framework |
+
+**第三批新增（5 张 MBB 招牌 framework）**：BCG 经验曲线（1968）、麦肯锡三horizons增长框架（1999）、波特三战略（1980）、BCG 智能简化（2013）、贝恩可复制业务模型（2005）。
 
 ## 路线图
 
-**前三批已交付**（共 21 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
+**前四批已交付**（共 26 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
 
 1. **首批卡片的 fact-check + 个人批注**（所有者主导）—— 跑通 owner 端完整流程
 2. **覆盖 MBB + 四大其他招牌方法**——前三批已铺底 BCG Experience Curve、Smart Simplicity、Porter Generic Strategies、Bain Repeatable Model 等；下一步可补 BCG / Bain 漏网方法（如 BCG Time-Based Competition）
-3. **覆盖老牌战略所的招牌方法**——Roland Berger、Monitor、AT Kearney 等
+3. **覆盖老牌战略所的招牌方法**——第四批已交付 Monitor 三测试、ADL 价值迁移、Booz 能力驱动战略、凯纳战略适配度、OC&C Where to Play / How to Win；下一步可补 Roland Berger / Oliver Wyman 等漏网方法
 4. **中文本土咨询方法**（远期）—— 君智、华与华、和君、华夏基石等是否单独一层？见 spec §14
 
 **已明确延后的字段**（spec §14）：`case_examples`、`evolution_history`、单独的 `comparisons/` 目录。
