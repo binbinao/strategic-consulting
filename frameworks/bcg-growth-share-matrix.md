@@ -23,6 +23,7 @@ limitations:
   - "[争议] '经验曲线'假设在服务业、平台经济中不成立"
   - "[争议] 1970s 后续 BCG 自己也在修正，强调需结合行业生命周期等其他框架"
 related_methods:
+  - "[[bcg-experience-curve]]"
   - "[[ge-mckinsey-matrix]]"
   - "[[ashridge-portfolio-display]]"
   - "[[adl-matrix]]"

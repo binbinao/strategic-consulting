@@ -12,3 +12,4 @@
 | [MECE / 议题树](../processes/mece.md) | process | draft |
 | [GE / 麦肯锡矩阵](../frameworks/ge-mckinsey-matrix.md) | framework | draft |
 | [假设驱动问题解决](../processes/hypothesis-driven-problem-solving.md) | process | draft |
+| [麦肯锡三horizons增长框架](../frameworks/mckinsey-three-horizons.md) | framework | draft |
