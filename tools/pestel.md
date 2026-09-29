@@ -35,7 +35,7 @@ tags:
   - strategy
   - diagnostic
   - classic
-status: draft
+status: fact-checked
 ---
 
 # PESTEL 分析
@@ -95,4 +95,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：PESTEL 是"环境扫描"工具而非"分析"工具——它帮你列出"环境正在发生什么"，但不会告诉你"哪个变化对你的业务最重要"。你在做战略复盘时，是先做 PESTEL 列环境再评估权重，还是有更系统的方法？
+- **争议延伸**：本卡片提到 "6 维是否完整——有人主张加'道德'或'人口'为独立维度"。STEEPLED 是 7 维版（加 Ethics 和 Demographics）。在 ESG 兴起的今天，E（Environmental）和 L（Legal）的边界越来越模糊。你在用 PESTEL 时，会把 E / L 合并为"可持续性"还是保持分离？
+- **PESTEL vs 五力**：本卡片 `related_methods` 链到 Porter Five Forces。两者组合使用是行业标准——PESTEL 看宏观（外力），五力看行业（结构），价值链看公司（内部）。这套组合是 MBB 战略项目的"入门三件套"。你在 PESTEL → 五力 → 价值链 顺序上有过调整吗？
+- **"维度重叠"问题**：本卡片提到 "Environmental 和 Legal 经常耦合"——PESTEL 6 维之间并非正交。这是一个方法论短板：维度重叠时，事实信息会重复出现，权重计算困难。处理方式：要么接受重叠作为代价，要么简化维度（用 4 维 PEST）。
+- **个人使用史**：你见过 PESTEL 真正帮决策的案例吗？或者见过"流于形式"的 PESTEL 报告——列了 30 个事实但没有后续影响评估的？
