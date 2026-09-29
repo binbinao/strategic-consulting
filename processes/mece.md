@@ -30,7 +30,7 @@ tags:
   - problem-solving
   - structure
   - classic
-status: draft
+status: fact-checked
 ---
 
 # MECE / 议题树
@@ -39,7 +39,7 @@ status: draft
 
 ## 起源与定位
 
-MECE（Mutually Exclusive, Collectively Exhaustive / 相互独立、完全穷尽）由 Barbara Minto 1960s 在 McKinsey 工作时提出，作为金字塔原理（Minto Pyramid Principle）的基础。该原则现已成为整个咨询行业的"通用语"，不专属任何一家公司。
+MECE（Mutually Exclusive, Collectively Exhaustive / 相互独立、完全穷尽）由 Barbara Minto 在 McKinsey 工作期间（她 1963 年加入 McKinsey，是首位女性顾问）提出，作为她后续"金字塔原理"（*The Minto Pyramid Principle*，1987 年由 Minto 自创公司出版）的基础框架。该原则现已成为整个咨询行业的"通用语"，不专属任何一家公司。
 
 ## 核心内容
 
@@ -87,4 +87,10 @@ MECE（Mutually Exclusive, Collectively Exhaustive / 相互独立、完全穷尽
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近做过"拆解一个大问题"的项目吗？当时 MECE 的拆分在事后看是"足够正交"还是"过度规整"？如果你回到当时的树状结构，会在哪里重新切分？
+- **争议延伸**：本卡片在 `limitations` 提了 "BCG 倾向更灵活"。实际上 BCG 在 1980s 后开始用 hypothesis-driven 流程（与 MECE 互补但不同），其中 "issue tree" 的概念与 MECE 是同一家族。可以查 BCG 出版的 *The McKinsey Way* 或 *The McKinsey Mind* 看 MECE 的演变。
+- **跨行业应用**：MECE 在 MBB 咨询里是默认动作，但在其他领域（如产品规划、学术写作、投资分析）的接受度不同。你能想到一个 MECE 用错（或用不上）的具体场景吗？
+- **与 hypothesis-driven 的关系**：本卡片 `related_methods` 链到 `hypothesis-driven-problem-solving`——两者在 MBB 内部常配合使用（MECE 提供骨架、hypothesis-driven 提供探索路径）。可以在 `related_methods` 里追这条线。
+- **个人使用史**：你在工作中第一次"拆分"问题时，是先学的 MECE 还是先学的其它方法（如思维导图、5W2H）？它是你工作流中的"默认动作"还是"慎用工具"？
