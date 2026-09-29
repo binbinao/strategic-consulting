@@ -65,7 +65,16 @@ def parse_frontmatter(text: str) -> dict | None:
         return None
     fm: dict = {}
     current_key = None
+    block_lines: list[str] | None = None  # accumulating a `|` block scalar
     for line in match.group(1).splitlines():
+        if block_lines is not None:
+            # Indented or blank lines continue the block scalar; any other line ends it.
+            if line.startswith("  ") or line == "":
+                block_lines.append(line[2:] if line.startswith("  ") else line)
+                continue
+            fm[current_key] = "\n".join(block_lines).rstrip("\n")
+            block_lines = None
+            # fall through to process this line as a new key/list-item
         if line.startswith("  - ") and current_key:
             if not isinstance(fm.get(current_key), list):
                 fm[current_key] = []
@@ -74,13 +83,19 @@ def parse_frontmatter(text: str) -> dict | None:
             key, _, value = line.partition(":")
             current_key = key.strip()
             value = value.strip()
-            if value == "":
+            if value == "|":
+                # Literal block scalar — collect following indented lines as one string.
+                block_lines = []
+            elif value == "":
                 fm[current_key] = []
             elif value.startswith("[") and value.endswith("]"):
                 inner = value[1:-1].strip()
                 fm[current_key] = [x.strip() for x in inner.split(",")] if inner else []
             else:
                 fm[current_key] = value
+    # Flush a block scalar that ran to end-of-frontmatter.
+    if block_lines is not None and current_key is not None:
+        fm[current_key] = "\n".join(block_lines).rstrip("\n")
     return fm
 
 
@@ -100,6 +115,11 @@ def validate_card(path: Path) -> list[str]:
     for list_field in ("source_company", "tags", "key_steps", "limitations", "related_methods"):
         if list_field in fm and not isinstance(fm[list_field], list):
             errors.append(f"{path}: {list_field} must be a list")
+    if "when_to_use" in fm and not isinstance(fm["when_to_use"], str):
+        errors.append(
+            f"{path}: when_to_use must be a string (block scalar), "
+            f"got {type(fm['when_to_use']).__name__}"
+        )
     for section in REQUIRED_H2_SECTIONS:
         if section not in text:
             errors.append(f"{path}: missing required body section '{section}'")

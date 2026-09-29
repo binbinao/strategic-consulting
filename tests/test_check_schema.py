@@ -267,3 +267,72 @@ def test_personal_section_excluded_from_300_check(tmp_path: Path):
     )
     result = run_script(tmp_path)
     assert result.returncode == 0, result.stdout + result.stderr
+
+
+def test_when_to_use_as_list_detected(tmp_path: Path):
+    """when_to_use must be a string, not a list (Batch 5 lesson)."""
+    (tmp_path / "frameworks").mkdir()
+    card = tmp_path / "frameworks" / "badlist.md"
+    card.write_text(
+        "---\n"
+        "name: 测试\n"
+        "name_en: Test\n"
+        "source_company: [测试]\n"
+        "category: framework\n"
+        "created_year: 2020\n"
+        "one_line_summary: 测试。\n"
+        "purpose: |\n  测试。\n"
+        "when_to_use:\n"
+        "  - 适用：a\n"
+        "  - 不适用：b\n"
+        "key_steps: [a]\n"
+        "limitations: [b]\n"
+        "related_methods: []\n"
+        "tags: [t]\n"
+        "status: draft\n"
+        "---\n\n"
+        "# 测试\n\n"
+        "## 起源与定位\n短。\n\n"
+        "## 核心内容\n短。\n\n"
+        "## 适用与不适用\n短。\n\n"
+        "## 局限与争议\n短。\n\n"
+        "## 与其他方法论的关系\n短。\n\n"
+        "## 个人批注\n<!-- -->\n\n",
+        encoding="utf-8",
+    )
+    result = run_script(tmp_path)
+    assert result.returncode != 0
+    assert "when_to_use" in result.stdout or "when_to_use" in result.stderr
+
+
+def test_when_to_use_as_block_scalar_passes(tmp_path: Path):
+    """when_to_use as `|` block scalar is the canonical form."""
+    (tmp_path / "frameworks").mkdir()
+    card = tmp_path / "frameworks" / "good.md"
+    card.write_text(
+        "---\n"
+        "name: 测试\n"
+        "name_en: Test\n"
+        "source_company: [测试]\n"
+        "category: framework\n"
+        "created_year: 2020\n"
+        "one_line_summary: 测试。\n"
+        "purpose: |\n  测试。\n"
+        "when_to_use: |\n  - 适用：a\n  - 不适用：b\n"
+        "key_steps: [a]\n"
+        "limitations: [b]\n"
+        "related_methods: []\n"
+        "tags: [t]\n"
+        "status: draft\n"
+        "---\n\n"
+        "# 测试\n\n"
+        "## 起源与定位\n短。\n\n"
+        "## 核心内容\n短。\n\n"
+        "## 适用与不适用\n短。\n\n"
+        "## 局限与争议\n短。\n\n"
+        "## 与其他方法论的关系\n短。\n\n"
+        "## 个人批注\n<!-- -->\n\n",
+        encoding="utf-8",
+    )
+    result = run_script(tmp_path)
+    assert result.returncode == 0, result.stdout + result.stderr
