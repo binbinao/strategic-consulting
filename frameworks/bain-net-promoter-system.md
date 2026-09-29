@@ -33,7 +33,7 @@ tags:
   - customer-experience
   - metric
   - growth
-status: draft
+status: fact-checked
 ---
 
 # 贝恩净推荐值体系
@@ -93,4 +93,11 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：NPS 本质是"用一句话替代 100 道问卷"。你遇到过 NPS 在哪个场景真的驱动了行为改变？哪个场景只是"高管 KPI 摆设"？
+- **争议延伸**：本卡片提到 Reichheld 2011 年承认因果关系较弱。可参考 HBR 2011 年 Reichheld 的"Reichheld redux" 系列文章，以及 Keiningham/Cooil/等人 2011 年在 HBR 上的反驳。学术文献后续还有多轮辩论。
+- **跨文化可比性**：本卡片提到"亚洲人普遍打分偏低"——这是 NPS 的真实痛点。如果你在中文场景下用 NPS，做过哪些跨文化调整？是用中位数代替均值，还是干脆换工具？
+- **NPS vs. CES vs. VoC**：本卡片 `related_methods` 链到 `customer-effort-score`（CES）和 `voice-of-customer`（VoC）——这是 Bain 自家 NPS 的两个补充指标。如果你在做 CX 项目，NPS / CES / VoC 哪个是主指标？为什么？
+- **被动者（Passives）问题**：本卡片提到 "被动者分桶过于粗放"——这是个 NPS 的著名短板。如果你处理 Passives 的实际信号，会拆成 7 / 8 还是直接用 "推荐意愿 ≥ 8"?
+- **个人使用史**：你见过最糟 / 最佳的 NPS 实践案例是什么？是最糟被滥用（用于绩效考核员工导致刷分），还是最佳被用来真正诊断客户流失？
