@@ -21,7 +21,7 @@
 
 | 范围 | 包含 |
 |---|---|
-| **公司** | McKinsey、BCG、Bain、Deloitte、Accenture Strategy、PwC Strategy&、EY-Parthenon、Roland Berger、L.E.K.、A.T. Kearney、Strategy&（legacy）、Monitor、Arthur D. Little、Oliver Wyman、OC&C（14 家） |
+| **公司** | McKinsey、BCG、Bain、Deloitte、Accenture Strategy、PwC Strategy&、EY-Parthenon、Roland Berger、L.E.K.、A.T. Kearney、Strategy&（legacy）、Monitor、Arthur D. Little、Oliver Wyman、OC&C（14 家 / 15 个 by-company 文件，因 PwC Strategy& 与 Strategy& legacy 分列） |
 | **方法类型** | `framework`（招牌框架）、`process`（做事流程）、`tool`（分析工具）三类全覆盖 |
 | **不收录** | 行业特定咨询 playbook（医疗、金融等）、运营/IT 咨询方法（Six Sigma、ITIL 等）、内部 firm 文化/求职内容 |
 
@@ -128,7 +128,7 @@ python3 -m pytest tests/ -v
 
 至此 14 家公司（McKinsey、BCG、Bain、Deloitte、Accenture Strategy、PwC Strategy&、EY-Parthenon、Roland Berger、L.E.K.、A.T. Kearney、Strategy& legacy、Monitor、Arthur D. Little、Oliver Wyman、OC&C）均至少拥有一张卡片。
 
-**第五批新增（3 张老牌战略所招牌方法 + 1 张工具）**：罗兰贝格高端战略（2005）、奥纬咨询企业风险管理（2005）、奥纬咨询风险定价（2010）。
+**第五批新增（3 张老牌战略所招牌方法）**：罗兰贝格高端战略（2005）、奥纬咨询企业风险管理（2005）、奥纬咨询风险定价（2010）。
 
 **第四批新增（5 张老牌战略所招牌 framework）**：Monitor 三测试（1987）、ADL 价值迁移（1996）、Booz 能力驱动战略（2000）、凯纳战略适配度（2005）、OC&C Where to Play / How to Win（2005）。
 

@@ -21,7 +21,7 @@
 | BCG 智能简化 | Boston Consulting Group | 2013 | draft |
 | 贝恩可复制业务模型 | Bain & Company | 2005 | draft |
 | Monitor 三测试 | Monitor Group | 1987 | draft |
-| ADL 价值迁移 | Adrian Slywotzky | 1996 | draft |
+| ADL 价值迁移 | Adrian Slywotzky（Mercer Management Consulting） | 1996 | draft |
 | Booz 能力驱动战略 | Booz Allen Hamilton / Wharton Mack Institute | 2000 | draft |
 | 凯纳战略适配度 | A.T. Kearney | 2005 | draft |
 | OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | draft |
