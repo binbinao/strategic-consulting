@@ -4,7 +4,7 @@ name_en: McKinsey Three Horizons of Growth
 source_company:
   - McKinsey & Company
 category: framework
-created_year: 1999
+created_year: 2000
 one_line_summary: 把企业增长机会分为 H1（核心）/ H2（新兴）/ H3（未来）三horizon，平衡短期收割与长期布局的投资组合框架。
 purpose: |
   帮多元化企业在"保核心业务现金流"与"投未来增长机会"之间做系统化的资源配置。
@@ -28,7 +28,7 @@ tags:
   - growth
   - innovation
   - portfolio
-status: draft
+status: fact-checked
 ---
 
 # 麦肯锡三horizons增长框架
@@ -37,7 +37,7 @@ status: draft
 
 ## 起源与定位
 
-1999 年由 McKinsey 顾问 Mehrdad Baghai 在其著作 *The Leap to Leadership* 中首次系统化提出 [需核实]，后续通过 HBR 文章在公司战略规划中广泛传播。该框架成为 McKinsey 增长类咨询的代表工具之一。
+2000 年由 McKinsey 顾问 Mehrdad Baghai、Shawn Coley、David White 在其合著 *The Alchemy of Growth: Practical Wisdom for Growing Your Business*（Basic Books）中首次系统化提出。Baghai 在此前的 *The Leap to Leadership*（1999）中也涉及类似思想，但"三horizon"作为完整 portfolio 框架是 2000 年专著确立的。该框架后经 McKinsey 内部资料与 HBR 文章推广，成为 McKinsey 增长类咨询的代表工具之一。
 
 ## 核心内容
 
@@ -83,4 +83,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近做过增长组合复盘吗？你的 portfolio 在 H1/H2/H3 上各分配了多少资源？H3 是不是只是"装饰"——很多公司名义上有 H3 投入但实际从不动？
+- **争议延伸**：本卡片提到 "CEO 任期制下 H3 易被砍"。H3 的本质问题是"看得见的回报不在任内"——你有没有见过 CEO 真把 H3 投入坚持下去的案例？或者反过来，见过 H3 投资成功的、有名有姓的？
+- **"双 horizon" vs "三 horizon"**：本卡片提到 "双 horizon / 多 horizon 变体"。三 horizon 是不是对所有公司都过重？早期公司只要 H1（核心）+ H3（赌未来）；多元化集团需要 H1 + H2 + H3。选 horizon 数取决于公司成熟度？
+- **跨组织管理**：本卡片提到 "H1 与 H3 业务文化差异巨大"。具体说：H1 业务要效率、季度报表、KPI 导向；H3 业务要探索、年度烧钱、长 ROI。文化冲突让 H3 难长大。你见过有效管理这种跨组织文化的公司吗？常见做法：独立 BU、独立 KPI、独立激励。
+- **个人使用史**：你用过三 horizon 框架做过资源分配吗？或者你见过最糟的三 horizon 误用——比如把 H3 当成"放低优先级业务"的回收站？
