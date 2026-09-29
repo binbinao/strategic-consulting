@@ -9,4 +9,3 @@
 | 名称 | 类型 | 状态 |
 |---|---|---|
 | [ADL 矩阵](../frameworks/adl-matrix.md) | framework | draft |
-| [ADL 价值迁移](../frameworks/adl-value-migration.md) | framework | draft |

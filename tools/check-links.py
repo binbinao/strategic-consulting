@@ -23,10 +23,10 @@ BY_COMPANY_FIRMS = {
     "roland-berger.md": ["Roland Berger"],
     "lek.md": ["L.E.K. Consulting"],
     "at-kearney.md": ["A.T. Kearney"],
-    "strategyand.md": ["Booz & Company"],
+    "strategyand.md": ["Booz & Company", "Booz Allen Hamilton"],
     "monitor.md": ["Monitor Group"],
     "arthur-d-little.md": ["Arthur D. Little"],
-    "oliver-wyman.md": ["Oliver Wyman"],
+    "oliver-wyman.md": ["Oliver Wyman", "Mercer Management Consulting"],
     "oc-c.md": ["OC&C Strategy Consultants"],
 }
 
