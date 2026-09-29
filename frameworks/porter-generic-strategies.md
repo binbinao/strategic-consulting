@@ -36,7 +36,7 @@ tags:
   - strategy
   - positioning
   - classic
-status: draft
+status: fact-checked
 ---
 
 # 波特三战略
@@ -45,7 +45,7 @@ status: draft
 
 ## 起源与定位
 
-1980 年由哈佛商学院教授 Michael Porter 在其著作《Competitive Strategy》中系统提出，同年发表于 HBR "Three Generic Strategies" 文章 [需核实]。该框架与同期"五力"模型、"价值链"分析共同构成 Porter 竞争战略体系的核心。
+1980 年由哈佛商学院教授 Michael Porter 在其著作《Competitive Strategy: Techniques for Analyzing Industries and Competitors》（Free Press, 1980）中系统提出。该框架与同期"五力"模型（Porter 1979 HBR 论文）共同构成 Porter 竞争战略体系；价值链分析（1985 *Competitive Advantage*）则是这套体系在公司层面的延伸。
 
 ## 核心内容
 
@@ -95,4 +95,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近分析过的企业或业务，Porter 三战略里它落在哪？或者它真的是"夹在中间"吗？现实里大多数公司并非三选一，而是"主选 + 局部次选"——你的项目里如何处理这种混合？
+- **争议延伸**：本卡片提到 "蓝海战略" 挑战 Porter 取舍逻辑。Kim & Mauborgne 2005 *Blue Ocean Strategy* 主张价值创新同时追求差异化和低成本。你读过蓝海后，怎么调和它与 Porter 的差异？
+- **"聚焦"独立性争议**：本卡片提到 "多数聚焦公司实质上是某细分里的差异化者"。这个观察很准——纯聚焦 + 纯成本领先几乎不存在。你在做行业分析时，是把"聚焦"当独立第三选项，还是当"差异化/成本领先的子集"？
+- **平台经济下的失灵**：本卡片提到 "平台经济下三战略逻辑失效"。具体说：网络效应赢家通吃，"聚焦细分"逻辑失效（赢家会吞并所有细分）。你见过平台/双边市场用三战略做战略选择的反例吗？
+- **"夹在中间"是否真不行**：Porter 自己 1985 在 *Competitive Advantage* 修订过部分观点——"整合 (integrated) cost leadership" 实际上能成功（Best Cost Provider）。你见过"夹在中间"反而赢的真实案例吗？
