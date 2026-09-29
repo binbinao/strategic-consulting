@@ -4,7 +4,7 @@ name_en: Minto Pyramid Principle
 source_company:
   - Barbara Minto
 category: framework
-created_year: 1973
+created_year: 1987
 one_line_summary: 把分析结果组织成"自上而下"的金字塔结构（结论先行 → 分论点 → 事实）的思考与沟通框架，是 MECE 原则的应用形态。
 purpose: |
   让任何沟通产出（咨询 deck / 备忘录 / 论文）在一开始就清晰传递"结论是什么"。
@@ -29,7 +29,7 @@ tags:
   - communication
   - structure
   - classic
-status: draft
+status: fact-checked
 ---
 
 # 明托金字塔原理
@@ -38,7 +38,7 @@ status: draft
 
 ## 起源与定位
 
-1973 年 [需核实] 由 Barbara Minto 在 McKinsey 工作期间创立，1960s 后期到她独立成为咨询顾问后体系化推广。正式书《The Minto Pyramid Principle》 [需核实] 多源记为 1987 年首版。Minto 是 MECE 原则的同位提出者。
+1987 年由 Barbara Minto 出版 *The Minto Pyramid Principle: Logic in Writing, Thinking* 一书系统化（前期在 McKinsey 工作时内部已发展、离开 McKinsey 后通过 Minto 培训机构推广多年）。该框架建立在 Minto 1960s 在 McKinsey 提出的 MECE 原则之上，是 MECE "拆分"的对应面 "重组"：把 MECE 子问题组织为有说服力的层级结构。Minto 离开 McKinsey 后创办 Minto 培训机构，专职教授金字塔与 MECE。
 
 ## 核心内容
 
@@ -90,4 +90,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：回想你最近做的一个 deck / 报告。结论真的在最上面吗？或者你习惯了"层层递进"的写法，金字塔对你来说反而是逆向的训练？如果你做现场报告，金字塔的故事线会被听众的 Q&A 打断——金字塔对"读"有效，对"听"有限。你怎么处理？
+- **争议延伸**：本卡片提到"演绎 vs 归纳" 二分可能不够。可以查 Minto 后续版本（2005 年的 *Pyramid Principle* 第二版、2009 年新版）——她本人如何回应这个批评？
+- **与 MECE 的关系**：本卡片 `related_methods` 链到 MECE。MECE 是"拆"，Pyramid 是"装"。你在工作中实际节奏是"先 MECE 拆、再 Pyramid 装"，还是边拆边装？两种节奏哪种更适合咨询项目？
+- **3-7 个子论点的边界**：本卡片提到 "3-7 个" 是心理学常识（短期记忆容量 7±2）。但实操中复杂议题经常超过 7 个子论点。Minto 自己怎么处理？分层嵌套的金字塔（一个母金字塔下挂多个子金字塔）是标准做法。
+- **个人使用史**：你见过听众因为金字塔结构而更快理解你的报告吗？或者反过来，见过"自下而上"的报告反而让听众主动发现洞察？哪种沟通方式更依赖受众？
