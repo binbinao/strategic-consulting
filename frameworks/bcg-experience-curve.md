@@ -24,6 +24,7 @@ limitations:
   - "[争议] '市场份额优势自动转化为成本优势'假设过强，落地依赖管理执行"
 related_methods:
   - "[[bcg-growth-share-matrix]]"
+  - "[[accenture-industry-x]]"
 tags:
   - cost
   - strategy

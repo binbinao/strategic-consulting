@@ -30,6 +30,8 @@ related_methods:
   - "[[monitor-three-tests]]"
   - "[[oc-c-where-to-play-how-to-win]]"
   - "[[roland-berger-premium-strategy]]"
+  - "[[ey-parthenon-multi-sided-platform]]"
+  - "[[accenture-industry-x]]"
 tags:
   - strategy
   - positioning

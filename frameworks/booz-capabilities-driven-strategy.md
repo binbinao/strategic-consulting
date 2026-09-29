@@ -28,6 +28,7 @@ limitations:
 related_methods:
   - "[[value-chain]]"
   - "[[bcg-organizational-advantage]]"
+  - "[[pwc-fit-for-growth]]"
 tags:
   - strategy
   - capability

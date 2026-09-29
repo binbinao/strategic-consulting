@@ -28,6 +28,9 @@ related_methods:
   - "[[booz-capabilities-driven-strategy]]"
   - "[[kearney-strategic-fitness]]"
   - "[[oliver-wyman-risk-based-pricing]]"
+  - "[[pwc-fit-for-growth]]"
+  - "[[ey-parthenon-multi-sided-platform]]"
+  - "[[accenture-industry-x]]"
 tags:
   - strategy
   - diagnostic

@@ -26,6 +26,7 @@ related_methods:
   - "[[pestel]]"
   - "[[kearney-strategic-fitness]]"
   - "[[oliver-wyman-enterprise-risk-management]]"
+  - "[[ey-parthenon-multi-sided-platform]]"
 tags:
   - industry-analysis
   - strategy

@@ -8,3 +8,4 @@
 
 | 名称 | 类型 | 状态 |
 |---|---|---|
+| [EY-Parthenon 多边平台战略](../frameworks/ey-parthenon-multi-sided-platform.md) | framework | draft |

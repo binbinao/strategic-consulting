@@ -27,6 +27,7 @@ related_methods:
   - "[[galbraith-star-model]]"
   - "[[bcg-smart-simplicity]]"
   - "[[booz-capabilities-driven-strategy]]"
+  - "[[deloitte-business-chemistry]]"
 tags:
   - organizational
   - strategic-fit

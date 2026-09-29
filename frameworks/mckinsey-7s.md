@@ -25,6 +25,7 @@ related_methods:
   - "[[galbraith-star-model]]"
   - "[[bcg-organizational-advantage]]"
   - "[[bcg-smart-simplicity]]"
+  - "[[deloitte-business-chemistry]]"
 tags:
   - organizational
   - diagnostic

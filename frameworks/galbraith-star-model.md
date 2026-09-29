@@ -27,6 +27,7 @@ limitations:
 related_methods:
   - "[[mckinsey-7s]]"
   - "[[bcg-organizational-advantage]]"
+  - "[[deloitte-business-chemistry]]"
 tags:
   - organizational
   - design

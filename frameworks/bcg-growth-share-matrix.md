@@ -31,6 +31,7 @@ related_methods:
   - "[[kearney-strategic-fitness]]"
   - "[[oc-c-where-to-play-how-to-win]]"
   - "[[roland-berger-premium-strategy]]"
+  - "[[pwc-fit-for-growth]]"
 tags:
   - portfolio
   - strategy

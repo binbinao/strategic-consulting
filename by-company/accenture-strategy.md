@@ -8,3 +8,4 @@
 
 | 名称 | 类型 | 状态 |
 |---|---|---|
+| [Accenture Industry X](../frameworks/accenture-industry-x.md) | framework | draft |

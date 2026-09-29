@@ -8,3 +8,4 @@
 
 | 名称 | 类型 | 状态 |
 |---|---|---|
+| [Deloitte 商业化学反应](../frameworks/deloitte-business-chemistry.md) | framework | draft |

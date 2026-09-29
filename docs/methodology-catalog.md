@@ -27,6 +27,10 @@
 | OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | draft |
 | 罗兰贝格高端战略 | Roland Berger | 2005 | draft |
 | 奥纬咨询企业风险管理 | Oliver Wyman | 2005 | draft |
+| PwC Strategy& 致胜成长 | Booz & Company / PwC Strategy& | 2008 | draft |
+| EY-Parthenon 多边平台战略 | Parthenon Group / EY-Parthenon | 2010 | draft |
+| Deloitte 商业化学反应 | Deloitte | 2014 | draft |
+| Accenture Industry X | Accenture Strategy | 2017 | draft |
 
 ## Processes
 
