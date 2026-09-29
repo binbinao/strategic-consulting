@@ -4,7 +4,7 @@ name_en: The 7S Framework
 source_company:
   - McKinsey & Company
 category: framework
-created_year: 1978
+created_year: 1980
 one_line_summary: 通过 7 个相互关联的内部要素诊断组织效能的诊断框架。
 purpose: |
   找出组织战略与执行之间的不匹配点，给重组、并购整合、变革项目提供抓手。
@@ -31,7 +31,7 @@ tags:
   - organizational
   - diagnostic
   - classic
-status: draft
+status: fact-checked
 ---
 
 # 麦肯锡 7S
@@ -40,7 +40,7 @@ status: draft
 
 ## 起源与定位
 
-1978 年由 McKinsey 顾问 Tom Peters 与 Robert Waterman 在《In Search of Excellence》中系统化提出。该框架最初用于分析为什么"卓越公司"持续优秀，后续被广泛应用于组织诊断。
+1980 年由 McKinsey 顾问 Tom Peters、Robert Waterman、Anthony Athos、Richard Pascale 四人在 McKinsey 内部工作期间共同提出（最初是 Peters/Waterman 与 Athos/Pascale 平行研究线的合并）。1982 年 Tom Peters 与 Robert Waterman 在《In Search of Excellence》中将其系统化呈现给大众。该框架最初用于分析美国"卓越公司"为何能长期保持优秀，后续被广泛应用于组织诊断与变革管理。
 
 ## 核心内容
 
@@ -82,4 +82,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：可以回想一个你接触过的真实组织（公司、部门、项目组），试着用 7 个 S 画一遍它的当前状态。哪些 S 之间"对齐"了？哪些"不对齐"？是不是有些 Soft S 被简化掉了？
+- **争议延伸**：Richard Pascale 后来写过《Surfing the Edge of Chaos》，对 7S 早期版本有反思。如果你想跟踪这个争议，可以查他的 1981 HBR 文章 "The Art of Japanese Management"——7S 框架的源头之一。
+- **常见误用**：把 7S 当成"列出 7 个维度"的清单，而不是看 7 个维度之间的"对齐度"。区分"诊断工具" vs "描述框架"——7S 是前者。
+- **与其他方法论的关系**：本卡片 `related_methods` 列了 5 个相关卡片（Galbraith Star、BCG Org Advantage、Smart Simplicity、Deloitte Business Chemistry、McKinsey Profitability Tree）。可以挑一个对照读一下，看看"组织诊断"这个谱系里 7S 是怎么被继承、修正、或互补的。
+- **个人使用史**：如果你自己在咨询或内部项目里用过 7S，最有用的经验是：什么场景下它帮上了忙？什么场景下你换成了别的工具？
