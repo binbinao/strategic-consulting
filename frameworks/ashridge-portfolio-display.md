@@ -30,7 +30,7 @@ tags:
   - strategy
   - csf
   - classic
-status: draft
+status: fact-checked
 ---
 
 # 阿什里奇组合展示
@@ -39,7 +39,7 @@ status: draft
 
 ## 起源与定位
 
-1990s 由英国 Ashridge 商学院（前 Cranfield School of Management）[需核实] 提出，针对 BCG 矩阵"市场份额即一切"的批评。Ashridge 不在 spec 定义的 14 家公司范围内，作为商学院独立方法被纳入。
+1990s 前期 [需核实] 由英国 Ashridge 商学院（前 Cranfield School of Management）的 Ashridge Strategic Management Centre 提出，主要开发者是 Michael Goold、Andrew Campbell 与 Marcus Alexander。该框架针对 BCG 矩阵"市场份额即一切"的批评，用"行业关键成功因素（CSF）"替代单一市场份额维度。Ashridge 不在 spec 定义的 14 家公司范围内，作为商学院独立方法被纳入。
 
 ## 核心内容
 
@@ -84,4 +84,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：CSF 思路其实比 BCG/GE 更贴你的行业吗？如果你在某个特定行业（如 SaaS、医疗、消费）做 portfolio，CSF 是先于市场份额的诊断维度——你能在不依赖市占率的前提下判断业务是否有竞争优势吗？
+- **争议延伸**：本卡片提到 Andrew Campbell 是 Ashridge Portfolio Display 的共同开发者——他同时也是 Monitor Three Tests 的共同作者（Goold 是同一作者）。这两人从 Monitor 跳到 Ashridge 的一段历程本身是研究价值——可以读 *The Lords of Strategy* 看这段 1990s 西方战略咨询界的交叉流动。
+- **CSF 主观性问题**：本卡片 `limitations` 提到 "CSF 主观性高，不同分析师可能给完全不同因子集"。这是 Ashridge 最知名的短板。你在做 CSF 分析时，团队如何达成共识？是采用 senior 拍板、还是多分析师 blind ranking 然后聚合？
+- **与 BCG/GE 的精确对比**：Ashridge 在 MBB 之外。你见过的客户里，谁会用 Ashridge 替代 BCG/GE？谁会把它当补充？通常的边界是什么（行业差异化足够大）？
+- **个人使用史**：你有过"明明市占率不高，但 CSF 表现很强"的业务吗？Ashridge 框架下应该会得到"投入"，而 BCG 框架下会被打入"问题"。这种情景你怎么处理？
