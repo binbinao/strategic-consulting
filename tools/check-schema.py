@@ -32,6 +32,32 @@ REQUIRED_H2_SECTIONS = (
 )
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
+MAX_FACTUAL_SECTION_CHARS = 300
+FACTUAL_SECTIONS = [
+    "## 起源与定位",
+    "## 核心内容",
+    "## 适用与不适用",
+    "## 局限与争议",
+    "## 与其他方法论的关系",
+]
+
+
+def _count_chinese_chars(text: str) -> int:
+    return sum(1 for c in text if "\u4e00" <= c <= "\u9fff")
+
+
+def _section_body_length(card_text: str, section_heading: str) -> int:
+    idx = card_text.find(section_heading)
+    if idx < 0:
+        return 0
+    start = idx + len(section_heading)
+    next_heading = card_text.find("\n## ", start)
+    if next_heading < 0:
+        body = card_text[start:]
+    else:
+        body = card_text[start:next_heading]
+    return _count_chinese_chars(body)
+
 
 def parse_frontmatter(text: str) -> dict | None:
     match = FRONTMATTER_RE.match(text)
@@ -77,6 +103,12 @@ def validate_card(path: Path) -> list[str]:
     for section in REQUIRED_H2_SECTIONS:
         if section not in text:
             errors.append(f"{path}: missing required body section '{section}'")
+    for section in FACTUAL_SECTIONS:
+        n = _section_body_length(text, section)
+        if n > MAX_FACTUAL_SECTION_CHARS:
+            errors.append(
+                f"{path}: section '{section.lstrip('# ').strip()}' has {n} Chinese characters (>300 max)"
+            )
     return errors
 
 
