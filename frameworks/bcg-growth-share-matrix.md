@@ -39,7 +39,7 @@ tags:
   - strategy
   - classic
   - contested
-status: draft
+status: fact-checked
 ---
 
 # BCG 增长矩阵
@@ -48,7 +48,7 @@ status: draft
 
 ## 起源与定位
 
-1970 年由 BCG 顾问 Bruce Henderson 在其"Perspective"系列中首次提出，与"经验曲线"概念同期。该矩阵是经验曲线理论的应用工具，1970s 在多元化大企业（如 GE、Honeywell）中风靡一时。
+1970 年由 BCG 顾问 Bruce Henderson 在其内部刊物 *Perspectives* 中首次以"The Product Portfolio"为题发表。该矩阵由 Bruce Henderson 与 Alan Zakon 等 BCG 同事共同开发（Zakon 画了原始四象限图，Henderson 推动了背后的理论）。该框架与 BCG 的"经验曲线"（Henderson 1960s 后期提出）一脉相承，1970s 在 GE、Honeywell 等多元化大企业中风靡一时。
 
 ## 核心内容
 
@@ -93,4 +93,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：回想一个你见过的真实业务组合（公司、或你参与的项目组合）——试着把这块业务放进四象限。它落在哪？它与"明星/金牛"叙事是否一致？真实分类与顾问"应该在哪"的判断之间是否有差？
+- **争议延伸**：BCG 自己后来也推出 "Value-based portfolio" 模型（取代增长-份额两维度，用 DCF/股东价值），承认了原矩阵的局限。如果你看 BCG 1980s 后的发表，可以看到"杀死 BCG 矩阵"的内部反思过程。可以查 BCG Henderson Institute 的 "BCG Classics Revisited" 系列文章。
+- **经验曲线与本框架的关系**：本卡片 `related_methods` 的 `bcg-experience-curve`（同属 BCG 1960s-70s Henderson 系列）是 BCG Matrix 的姐妹方法。可以用一条线串：经验曲线（成本随累积产量下降）→ BCG Matrix（用相对市场份额 + 增长率把业务分类）→ GE/McKinsey Matrix（替代品）。这是 BCG "Henderson era" 的一条暗线。
+- **常见误用**：把 BCG Matrix 当作静态描述工具，而非战略决策工具。它的产出本质是"为每个象限预设动作（投入 / 收割 / 退出）"——价值在动作，不在分类。
+- **个人使用史**：你见过 BCG Matrix 被滥用的案例吗？或者被行业里的"非 BCG 出身"的咨询师当作通用工具，结果用错了？
