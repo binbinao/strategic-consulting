@@ -115,15 +115,20 @@ python3 -m pytest tests/ -v
 
 ## 已收录方法论
 
-当前共 **29 张**：21 个 framework + 2 个 process + 6 个 tool，覆盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法，以及老牌战略所（Monitor / ADL / Booz / Kearney / OC&C / Roland Berger / Oliver Wyman）的招牌方法（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
+当前共 **33 张**：25 个 framework + 2 个 process + 6 个 tool，覆盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法，老牌战略所（Monitor / ADL / Booz / Kearney / OC&C / Roland Berger / Oliver Wyman）的招牌方法，以及本批次新加入的四大咨询公司招牌方法（Deloitte / Accenture Strategy / PwC Strategy& / EY-Parthenon）（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
 
-**第五批新增（3 张老牌战略所招牌方法 + 1 张工具）**：
+**第六批新增（4 张四大咨询首入卡片）**：
 
 | 方法论 | 首发 | 提出年份 | 类型 |
 |---|---|---|---|
-| 罗兰贝格高端战略 | Roland Berger | 2005 | framework |
-| 奥纬咨询企业风险管理 | Oliver Wyman | 2005 | framework |
-| 奥纬咨询风险定价 | Oliver Wyman | 2010 | tool |
+| PwC Strategy& 致胜成长 | Booz & Company / PwC Strategy& | 2008 | framework |
+| EY-Parthenon 多边平台战略 | Parthenon Group / EY-Parthenon | 2010 | framework |
+| Deloitte 商业化学反应 | Deloitte | 2014 | framework |
+| Accenture Industry X | Accenture Strategy | 2017 | framework |
+
+至此 14 家公司（McKinsey、BCG、Bain、Deloitte、Accenture Strategy、PwC Strategy&、EY-Parthenon、Roland Berger、L.E.K.、A.T. Kearney、Strategy& legacy、Monitor、Arthur D. Little、Oliver Wyman、OC&C）均至少拥有一张卡片。
+
+**第五批新增（3 张老牌战略所招牌方法 + 1 张工具）**：罗兰贝格高端战略（2005）、奥纬咨询企业风险管理（2005）、奥纬咨询风险定价（2010）。
 
 **第四批新增（5 张老牌战略所招牌 framework）**：Monitor 三测试（1987）、ADL 价值迁移（1996）、Booz 能力驱动战略（2000）、凯纳战略适配度（2005）、OC&C Where to Play / How to Win（2005）。
 
@@ -131,13 +136,15 @@ python3 -m pytest tests/ -v
 
 ## 路线图
 
-**前五批已交付**（共 29 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
+**前六批已交付**（共 33 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
 
 1. **首批卡片的 fact-check + 个人批注**（所有者主导）—— 跑通 owner 端完整流程
 2. **覆盖 MBB + 四大其他招牌方法**——前三批已铺底 BCG Experience Curve、Smart Simplicity、Porter Generic Strategies、Bain Repeatable Model 等；下一步可补 BCG / Bain 漏网方法（如 BCG Time-Based Competition）
 3. **覆盖老牌战略所的招牌方法**——第四、五批已交付 Monitor 三测试、ADL 价值迁移、Booz 能力驱动战略、凯纳战略适配度、OC&C Where to Play / How to Win、罗兰贝格高端战略、奥纬咨询 ERM / 风险定价，本路线图项已完结
-4. **四大咨询方法首入**（下一批次候选）—— Deloitte / Accenture Strategy / PwC Strategy& / EY-Parthenon 目前 `by-company/` 索引均为空，下一批可首入四大招牌方法（如 Deloitte Business Chemistry、EY-Parthenon Corporate Finance、Accenture Industry X 等）
+4. **四大咨询方法首入**——第六批已交付 PwC Strategy& 致胜成长、EY-Parthenon 多边平台战略、Deloitte 商业化学反应、Accenture Industry X，本路线图项已完结
 5. **中文本土咨询方法**（远期）—— 君智、华与华、和君、华夏基石等是否单独一层？见 spec §14
+
+**下一步方向（待定）**：可考虑（a）补 BCG / Bain / L.E.K. / Arthur D. Little 等漏网招牌方法；（b）跨公司方法对比层（如 BCG vs. McKinsey 三horizons 比较）；（c）暂停新增，转向所有者的 fact-check 与个人批注层。
 
 **已明确延后的字段**（spec §14）：`case_examples`、`evolution_history`、单独的 `comparisons/` 目录。
 
