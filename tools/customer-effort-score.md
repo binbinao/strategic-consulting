@@ -30,7 +30,7 @@ tags:
   - customer-experience
   - metric
   - service-quality
-status: draft
+status: fact-checked
 ---
 
 # 客户费力度评分
@@ -39,7 +39,7 @@ status: draft
 
 ## 起源与定位
 
-2010 年由 CEB（Corporate Executive Board，现为 Gartner 旗下 Customer Experience Benchmarking / CEBM 社区）在《The Effortless Experience》中首次系统化提出 [需核实]。核心论著为 Matthew Dixon、Karen Freeman、Nicholas Toman 的研究——他们通过实证发现：客户因"低费力"体验而复购的概率比因"被取悦"而复购的概率更高。该指标现被全球客服中心、订阅业务广泛采用作为 NPS 的补充 [需核实]。
+2010 年由 CEB（Corporate Executive Board，现为 Gartner 旗下 Customer Experience Benchmarking / CEBM 社区）研究团队在 HBR 论文 *Stop Trying to Delight Your Customers*（Matthew Dixon、Karen Freeman、Nicholas Toman 合著）中首次系统化提出。2013 年同一研究团队出版 *The Effortless Experience: Conquering the New Battleground for Customer Loyalty* 一书扩展此框架。核心论著通过实证发现：客户因"低费力"体验而复购的概率比因"被取悦"而复购的概率更高。该指标现被全球客服中心、订阅业务广泛采用作为 NPS 的补充。
 
 ## 核心内容
 
@@ -99,4 +99,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近做过的客户体验诊断中，NPS 和 CES 哪个更有效？本卡片提到 NPS 测"传播意愿"、CES 测"留住成本"——你见过一个客户 NPS 高但复购率低吗？或者反过来？这种分裂常意味着某些费力接触点没解决。
+- **争议延伸**：本卡片提到 "CES 与 NPS 谁更预测客户留存，CEB 倾向 CES，Reichheld 倾向 NPS，学术界尚无定论"。这是客户体验指标领域的关键争论。可以看 Dixon 2010 年 HBR 论文原文，看他与 Reichheld 的回应。
+- **文化与打分基线问题**：本卡片提到 "亚洲客户普遍打分偏低"。这在中性量表（如 1-5）里特别明显。你在跨地区比较时，如何校准？是用全球统一的 CES 阈值，还是按地区分别设阈值？
+- **从"测"到"改"的鸿沟**：本卡片提到 "测了不改反而伤害员工士气"——这是 CX 项目的通病。客服坐席看到客户打低分、但没收到任何改进措施，会产生"测了也白测"的感受。你怎么处理测改循环？
+- **个人使用史**：你见过 CES 真正帮到运营改进的案例吗？或者见过"被滥用"——例如把 CES 评分用于考核坐席导致推卸难客户？
