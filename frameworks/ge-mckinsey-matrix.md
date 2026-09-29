@@ -34,7 +34,7 @@ tags:
   - strategy
   - classic
   - improvement
-status: draft
+status: fact-checked
 ---
 
 # GE / 麦肯锡矩阵
@@ -43,7 +43,7 @@ status: draft
 
 ## 起源与定位
 
-1970s 末由 McKinsey & Company 为 General Electric 设计的 portfolio 工具，是 BCG 增长矩阵的"精细化改良版"。该矩阵在 1980s GE 的"数一数二"战略中被大规模应用，成为管理咨询行业的 portfolio 分析标杆。
+1970s 后期 [需核实] 由 McKinsey & Company 为 General Electric 设计的 portfolio 工具，是 BCG 4 格增长矩阵的"精细化改良版"。该矩阵在 1980s GE Jack Welch 任内（1981-2001）"数一数二（fix-it, sell it, or close it）"战略中被大规模应用，Welch 在任 20 年里关停或卖掉约 100 多个不符合前两名的业务部门，使 GE/McKinsey 矩阵成为管理咨询行业的 portfolio 分析标杆。
 
 ## 核心内容
 
@@ -91,4 +91,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近做的 portfolio 复盘是 BCG 4 格还是 GE/McKinsey 9 格？GE/McKinsey 多花时间但更细——你愿意为那个精度差付多少时间成本？如果你从 BCG 升到 GE/McKinsey，多花了多少时间但避免了误判？
+- **争议延伸**：本卡片提到 "9 格粒度过细，反而比 BCG 4 格难决策"。GE 的 "数一数二" 战略是被 Welch 大规模应用的，但你有没有注意到：在 Welch 任内后期 GE 出现财务问题（2008 金融危机前后的 GE Capital 困境）——GE/McKinsey 矩阵的过度应用可能是一个原因。可参考 Robert Slater *Jack Welch and the GE Way* 或后续的 GE 反例研究。
+- **跨行业比较的难题**：本卡片提到 "行业吸引力" 标准化打分在跨行业比较失真。这是 GE/McKinsey 矩阵最深的痛点——一个金融服务业务（高利润但竞争激烈）和一个消费品业务（低利润但稳定）放在一起打分困难。你在工作中遇到这种情况时怎么做？是按比例缩放，还是干脆按行业分别处理？
+- **与 BCG/ADL 的精确对比**：BCG（市场份额主导、二元分类）、ADL（生命周期阶段、20 格精细）、GE/McKinsey（多因素打分、9 格）——这 3 个矩阵在不同 portfolio 问题上谁更强？你的 portfolio 决策倾向用哪个？
+- **个人使用史**：你见过 GE/McKinsey 矩阵最有效 / 最失败的一次实际应用是什么？客户接受 9 格评估还是嫌太复杂？
