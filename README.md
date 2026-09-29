@@ -101,17 +101,25 @@ status: draft
 项目自带两个 Python 校验脚本 + pytest 测试：
 
 ```bash
-# 校验所有卡片的 frontmatter（12 字段、status/category 取值、list 类型、6 个 body section）
+# 校验所有卡片的 frontmatter（12 字段、status/category 取值、list 类型、6 个 body section、
+# 事实层每个 section ≤300 中文字、when_to_use 必须是 block scalar 字符串）
 python3 tools/check-schema.py
 
-# 校验 related_methods 的 wikilink 是否存在且双向
+# 校验 related_methods 的 wikilink 是否存在且双向；
+# 校验 by-company 索引条目指向的卡片 source_company 是否包含本索引所代表的公司
 python3 tools/check-links.py
 
-# 运行单元测试（7 个）
+# 运行单元测试（14 个，覆盖 schema + links 的核心规则）
 python3 -m pytest tests/ -v
 ```
 
 `check-schema.py` 实现了一个轻量 YAML frontmatter 解析器（不依赖 PyYAML），故意保持可移植。如未来要严格 YAML 兼容，建议替换为 PyYAML。
+
+新引入的机械校验对应 [`AGENTS.md`](AGENTS.md) 已有的事实层规则：
+
+- **300 字上限**——按"事实层每个 section ≤ 300 中文字"机械执行（仅统计汉字字符数，不含 markdown 标记与英文术语；`## 个人批注` 不计入）。
+- **`when_to_use` 类型**——必须是 `|` block scalar 字符串，避免误写成 list 导致下游消费侧格式歧义。
+- **by-company 反向归属**——索引文件中的每个卡片链接必须出现在该卡片的 `source_company` 列表里，防止索引与卡片脱钩。
 
 ## 已收录方法论
 
