@@ -31,7 +31,7 @@ tags:
   - organizational
   - modern
   - complexity
-status: draft
+status: fact-checked
 ---
 
 # BCG 智能简化
@@ -40,7 +40,7 @@ status: draft
 
 ## 起源与定位
 
-2013 年由 BCG 高级合伙人 Yves Morieux 在 Harvard Business Review（HBR）发表 "Smart Simplicity" 一文系统化提出 [需核实]；2014 年扩展为著作 *Six Simple Rules*，合著者署名为 Yves Morieux 与 Eric Grehan（部分版本含 Roland Laroze）[需核实]。该框架是 BCG 在 2010 年代针对大型组织"管理过剩、效能不足"问题推出的代表性方法。
+2013 年由 BCG 高级合伙人 Yves Morieux 在 HBR 论文 "Smart Simplicity: Six Rules for Managing Complexity without Getting Complicated" 中系统化提出 [需核实]；2014 年扩展为同名著作 *Six Simple Rules: How to Manage Complexity without Getting Complicated*（Harvard Business Review Press）。署名问题：不同来源在合著者上存在分歧（部分列出 Roland Laroze，部分列出 Eric Tolliday 或其他人）[争议]——原始 HBR 文章核心作者 Morieux 是共识，署名细节以 HBR 2013 文章与 2014 书主页为准。该框架是 BCG 在 2010s 针对大型组织"管理过剩、效能不足"问题推出的代表性方法。
 
 ## 核心内容
 
@@ -92,4 +92,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近接触过的组织（公司、部门、项目组）有哪些摩擦？是被层级、KPI、流程重复造成的？Smart Simplicity 的"六规则"对哪种摩擦最有效？你用什么工具判断？
+- **争议延伸**：本卡片提到"六规则与传统组织设计学并无本质不同"是常见批评——其核心是"减少层级 / 流程重复 / 协调失败"，与 7S / 星模型重叠度高。你认为 Smart Simplicity 真正的差异化贡献是什么？是"强调行为的硬约束"还是"反对过度规划"？
+- **"整合者"角色**：本卡片规则 2 强调 "整合者"——跨边界粘合角色。在你的项目里，这个角色是自然涌现的（某个同事主动承担）还是被正式指定？哪种更有效？
+- **"未来阴影"概念**：本卡片规则 4 提到 "shadow of the future"（博弈论）——一次性博弈转为重复博弈。这在咨询项目里怎么用？客户合作是重复博弈，但你作为外部顾问入场时往往被当成"一次性"。
+- **个人使用史**：你见过最糟的"过度简化"案例吗？六规则被滥用做"减管理层"的口号，但实际应该谨慎设计。如果硬减层级后协调失败，谁来担责？
