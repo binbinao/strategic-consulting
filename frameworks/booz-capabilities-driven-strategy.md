@@ -29,6 +29,7 @@ related_methods:
   - "[[value-chain]]"
   - "[[bcg-organizational-advantage]]"
   - "[[pwc-fit-for-growth]]"
+  - "[[monitor-value-based-management]]"
 tags:
   - strategy
   - capability

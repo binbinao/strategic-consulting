@@ -9,3 +9,4 @@
 | 名称 | 类型 | 状态 |
 |---|---|---|
 | [Monitor 三测试](../frameworks/monitor-three-tests.md) | framework | draft |
+| [Monitor 价值管理](../frameworks/monitor-value-based-management.md) | framework | draft |

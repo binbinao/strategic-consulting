@@ -25,6 +25,7 @@ limitations:
   - "[争议] CES 与 NPS 哪个更预测客户留存，学术界尚无定论"
 related_methods:
   - "[[bain-net-promoter-system]]"
+  - "[[service-profit-chain]]"
 tags:
   - customer-experience
   - metric

@@ -27,6 +27,8 @@ related_methods:
   - "[[customer-effort-score]]"
   - "[[voice-of-customer]]"
   - "[[monitor-three-tests]]"
+  - "[[monitor-value-based-management]]"
+  - "[[service-profit-chain]]"
 tags:
   - customer-experience
   - metric

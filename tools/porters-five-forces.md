@@ -27,6 +27,8 @@ related_methods:
   - "[[kearney-strategic-fitness]]"
   - "[[oliver-wyman-enterprise-risk-management]]"
   - "[[ey-parthenon-multi-sided-platform]]"
+  - "[[lek-commercial-due-diligence]]"
+  - "[[ansoff-matrix]]"
 tags:
   - industry-analysis
   - strategy

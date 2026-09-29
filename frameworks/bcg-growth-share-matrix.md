@@ -32,6 +32,8 @@ related_methods:
   - "[[oc-c-where-to-play-how-to-win]]"
   - "[[roland-berger-premium-strategy]]"
   - "[[pwc-fit-for-growth]]"
+  - "[[lek-commercial-due-diligence]]"
+  - "[[ansoff-matrix]]"
 tags:
   - portfolio
   - strategy

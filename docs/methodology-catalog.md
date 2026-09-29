@@ -31,6 +31,9 @@
 | EY-Parthenon 多边平台战略 | Parthenon Group / EY-Parthenon | 2010 | draft |
 | Deloitte 商业化学反应 | Deloitte | 2014 | draft |
 | Accenture Industry X | Accenture Strategy | 2017 | draft |
+| L.E.K. 商业尽职调查 | L.E.K. Consulting | 1990 | draft |
+| Monitor 价值管理 | Monitor Group | 1995 | draft |
+| 麦肯锡盈利树 | McKinsey & Company | 2000 | draft |
 
 ## Processes
 
@@ -49,3 +52,5 @@
 | 客户费力度评分 | CEBM / industry-wide | 2010 | draft |
 | 客户之声 | industry-wide | 1990 | draft |
 | 奥纬咨询风险定价 | Oliver Wyman | 2010 | draft |
+| 安索夫矩阵 | Igor Ansoff | 1965 | draft |
+| 服务利润链 | James Heskett | 1994 | draft |

@@ -25,6 +25,8 @@ limitations:
 related_methods:
   - "[[bcg-growth-share-matrix]]"
   - "[[accenture-industry-x]]"
+  - "[[mckinsey-profitability-tree]]"
+  - "[[monitor-value-based-management]]"
 tags:
   - cost
   - strategy

@@ -29,6 +29,7 @@ related_methods:
   - "[[ge-mckinsey-matrix]]"
   - "[[porter-generic-strategies]]"
   - "[[adl-matrix]]"
+  - "[[ansoff-matrix]]"
 tags:
   - strategy
   - portfolio

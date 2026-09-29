@@ -26,6 +26,7 @@ related_methods:
   - "[[bcg-organizational-advantage]]"
   - "[[bcg-smart-simplicity]]"
   - "[[deloitte-business-chemistry]]"
+  - "[[mckinsey-profitability-tree]]"
 tags:
   - organizational
   - diagnostic

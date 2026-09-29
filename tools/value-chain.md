@@ -31,6 +31,9 @@ related_methods:
   - "[[pwc-fit-for-growth]]"
   - "[[ey-parthenon-multi-sided-platform]]"
   - "[[accenture-industry-x]]"
+  - "[[lek-commercial-due-diligence]]"
+  - "[[mckinsey-profitability-tree]]"
+  - "[[service-profit-chain]]"
 tags:
   - strategy
   - diagnostic
