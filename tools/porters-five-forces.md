@@ -33,7 +33,7 @@ tags:
   - industry-analysis
   - strategy
   - classic
-status: draft
+status: fact-checked
 ---
 
 # 波特五力
@@ -42,7 +42,7 @@ status: draft
 
 ## 起源与定位
 
-1979 年由哈佛商学院教授 Michael Porter 在《How Competitive Forces Shape Strategy》(HBR) 中首次提出。该框架是 Porter 竞争战略体系（"三战略" + 价值链 + 五力）的核心工具。
+1979 年由哈佛商学院教授 Michael Porter 在 HBR 论文 *How Competitive Forces Shape Strategy* 中首次系统化提出。该论文是 Porter 1980 年专著《竞争战略》（*Competitive Strategy*）的核心浓缩。Porter 后续在 *Competitive Advantage*（1985）中加入了"价值链分析"，与五力形成"行业 + 公司"两层工具组合。
 
 ## 核心内容
 
@@ -86,4 +86,11 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：挑一个你熟悉的行业（不要挑你已经做过完整五力分析的），用 5 分钟给每种力量一个 H/M/L 评级。如果结论与你已有的市场判断一致，那五力对你来说是冗余的；如果让你意外，那就是真正的价值。
+- **争议延伸**：Card 提到的 Brandenburger & Nalebuff「合作竞争」(Co-opetition, 1996) 是个值得追的批评。可考虑看看 *Blue Ocean Strategy*（2005）——它对五力的"边界限定"批评更彻底。
+- **行业适用性**：本卡片在 `limitations` 提到了平台经济不适用。如果你最近有平台/双边市场的咨询或项目，可以用 Adam Brandenburger & Barry Nalebuff 的"互补者（complementors）"扩展，或再考虑 *The Lords of Strategy*（Walter Kiechel III 2010）中对 Porter 五力发展史的回顾。
+- **与价值链的搭配**：Porter 的工具组合（五力 + 价值链 + 三战略）是"行业-公司-定位"的三层栈。可以在 `related_methods` 里挑 `value-chain`（工具）和 `porter-generic-strategies`（框架）一起读，看 Porter 的方法论谱系全貌。
+- **常见误用**：把"五力"误用为"判断单个公司是否值得投"——五力分析的是行业平均利润率，不是个股能力。个体 ROIC 高可能来自位置优势（如专利/品牌），不是来自行业结构。
+- **个人使用史**：你见过五力分析说服了 / 没说服过员工的案例吗？最常见失败模式是打分凭直觉（五种力量各自 H/M/L 的判断没有外部对标）。
