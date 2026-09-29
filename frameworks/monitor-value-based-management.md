@@ -40,7 +40,7 @@ status: draft
 
 ## 起源与定位
 
-Monitor Group 由 Michael Porter、Mark Fuller 等人于 1983 年创立，1990s 后与 BCG、McKinsey 并称"战略三巨头"之外的重要策略咨询力量。Monitor 于 2013 年被 Deloitte 收购并入"Monitor Deloitte"。VBM 作为概念在 1990s 由多家咨询公司共同推动（Copeland/Koller/Murrin 在 McKinsey 也有相关著述），Monitor 的特定 VBM 实践 [需核实] 强调"财务指标与运营指标在价值驱动树中一一对应" [需核实]。
+Monitor Group 由 Michael Porter、Mark Fuller 等人于 1983 年创立 [需核实]，1990s 后与 BCG、McKinsey 并称"战略三巨头"之外的重要策略咨询力量。Monitor 于 2013 年被 Deloitte 收购并入"Monitor Deloitte"。VBM 作为概念在 1990s 由多家咨询公司共同推动（Copeland/Koller/Murrin 在 McKinsey 也有相关著述），Monitor 的特定 VBM 实践 [需核实] 强调"财务指标与运营指标在价值驱动树中一一对应" [需核实]。
 
 ## 核心内容
 
