@@ -37,7 +37,7 @@ tags:
   - digital
   - operations
   - industrial
-status: draft
+status: fact-checked
 ---
 
 # Accenture Industry X
@@ -109,4 +109,10 @@ Accenture 的"Strategy + Consulting + Technology"三业务线结构 [需核实]�
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近接触过的"工业数字化"项目里，Industry X 的"端到端数字化"愿景与"单点试点"现实哪个更强？常见矛盾：客户 CEO 想要端到端数字化转型，但 IT/OT 部门只能做单点 PoC。你怎么处理？
+- **争议延伸**：本卡片提到 "GE Predix 已退出 [需核实]"——GE 2018 卖掉 Predix 是工业互联网领域标志性失败案例。这与 Industry X "数字技术 + 工业场景"愿景的现实风险直接相关。你怎么看 Predix 失败对 Industry X 的警示意义？
+- **Industry X vs 厂商自研平台**：本卡片提到 GE Predix、西门子 MindSphere、ABB Ability 等。你见过的客户里，谁选 Accenture Industry X、谁选厂商自研平台？决策因素是什么？通常 IT 咨询偏好 Accenture，OT 设备厂商偏好自家平台。
+- **"卖产品 → 卖服务"转型**：本卡片提到 servitization（"卖设备 → 卖可用小时数"）。这是 Industry X 商业模式的延伸。你见过最成功的 servitization 案例吗？比如 GE Aviation（喷气发动机"按小时付费"）vs 失败案例？
+- **个人使用史**：你见过最有效的"工业数字化"项目——是真的提升了 OEE（综合设备效率）还是只是"看上去数字化"了？你用什么指标判断数字化是真有效还是装样子？
