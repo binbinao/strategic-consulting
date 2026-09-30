@@ -5,7 +5,7 @@ source_company:
   - Booz Allen Hamilton
   - Wharton Mack Institute
 category: framework
-created_year: 2000
+created_year: 2010
 one_line_summary: 识别 3–5 项"差异化能力"作为可持续竞争优势支点，并围绕它们构建、维持与更新的战略框架。
 purpose: |
   把企业战略的支点从"市场定位 / 资源组合"转向"少数能持续创造差异的组织能力"，
@@ -34,7 +34,7 @@ tags:
   - strategy
   - capability
   - growth
-status: draft
+status: fact-checked
 ---
 
 # Booz 能力驱动战略
@@ -43,7 +43,7 @@ status: draft
 
 ## 起源与定位
 
-1990s 后期至 2000s 由 Booz Allen Hamilton 的战略实践线（Booz & Company，2014 年并入 PwC 形成 Strategy&）与宾夕法尼亚大学沃顿商学院的 Mack Institute for Technological Innovation 共同发展 [需核实]。代表人物包括 Booz Allen Hamilton 与 Wharton Mack Institute for Technological Innovation 的多位顾问（具体署名 [需核实]）。Booz Allen Hamilton 在该时期将"能力驱动战略"作为服务客户的标志性方法之一，发表于 HBR 与公司白皮书 [需核实]。该方法承接 Prahalad & Hamel 1990 年提出的"核心竞争力"思路，并进一步操作化为可咨询交付的诊断流程。
+2010 年 12 月由 Booz & Company 高级合伙人 Paul Leinwand、Cesare Mainardi 等与宾夕法尼亚大学沃顿商学院 Mack Institute for Technological Innovation 合作出版的 *The Essential Advantage: How to Win with a Capabilities-Driven Strategy*（HBR Press，2011 年正式发售）中系统化提出。该方法承接 Prahalad & Hamel 1990 年提出的"核心竞争力"（HBR 文章《The Core Competence of the Corporation》）思路，并进一步操作化为 Booz / 后续 Strategy& 的咨询交付诊断流程。原始 HBR 单篇文章出处待考 [需核实]，但 2010-2011 年间有多篇 Booz / Wharton 学者 HBR 合作文章讨论该主题。
 
 ## 核心内容
 
@@ -102,4 +102,10 @@ status: draft
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近做过的"差异化能力"识别项目里，3-5 项是经验数字还是有结构化的筛选方法？作者建议了 3 条筛选标准（客户感知 / 对手难模仿 / 横向驱动）——你在项目里会坚持这 3 条，还是会按客户情况加权？
+- **争议延伸**：本卡片提到 "与 Prahalad & Hamel 1990 'Core Competence' 概念高度重叠"。*The Essential Advantage* 自称"延展而非重复"——但 1990 年 HBR 文章的 5 条识别标准（*User value* / *Competitor differentiation* / *Extendability* / *Identifiability* / *Inimitability* / *Durability* 等）与 Booz 2010 的 4 条（客户感知 / 对手难模仿 / 横向驱动 / 能力支撑）有交集也有差异。你在做能力识别时，会引哪种？
+- **"构建 vs 维持 vs 更新"的难点**：本卡片提到能力识别容易，建设投资难。但更难的往往是"维持"——能力制度化后随创始人/核心员工流失而衰退。你见过最有效的"能力维持"机制是什么？
+- **"差异化能力 vs 通用能力"边界**：本卡片提到 "对'通用能力的运营卓越'路径讨论不足"——这是 Prahalad & Hamel 之后 30 年的争议。精益生产（Lean）是通用能力的极致。你会怎么权衡客户感知价值与流程效率？
+- **个人使用史**：你做过最有效或最无效的能力驱动战略项目是什么？或者见过"识别出来的能力无法被一线理解/操作"——管理层识别了能力但执行层无法落地？
