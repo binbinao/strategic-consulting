@@ -4,7 +4,7 @@ name_en: Deloitte Business Chemistry
 source_company:
   - Deloitte
 category: framework
-created_year: 2014
+created_year: 2018
 one_line_summary: 用 2×2 矩阵把工作风格分为四种类型（分析者 / 远见者 / 整合者 / 催化者），用于团队协作、领导力与沟通改善的人格化诊断框架。
 purpose: |
   帮助团队、领导者与组织理解"人与人之间的工作风格差异"——把抽象的"性格差异"
@@ -36,7 +36,7 @@ tags:
   - team
   - leadership
   - human-capital
-status: draft
+status: fact-checked
 ---
 
 # Deloitte 商业化学反应
@@ -45,7 +45,7 @@ status: draft
 
 ## 起源与定位
 
-"Business Chemistry" 是 Deloitte 旗下的方法之一，公开出版物为 2014 年 Deloitte 出版的同名书籍《Business Chemistry》[需核实]。该方法源自 Deloitte 人力资本（Human Capital）咨询业务，是 Deloitte 把商业心理学研究成果转化为可大规模咨询交付工具的代表 [需核实]。需要指出：商业心理学的人格类型研究有很长历史（MBTI、Big Five、Hogan Assessments 等），Business Chemistry 在该脉络下的具体理论原创度与可署名的学术合作 [需核实]。
+"Business Chemistry" 是 Deloitte 的方法之一，公开出版物为 2018 年 Deloitte 旗下 Kim Christfort 与 Suzanne Vickberg 合著的同名书籍《Business Chemistry: Practical Magic for Crafting Powerful Work Relationships》（Wiley，2018 年 5 月出版）。该方法源自 Deloitte 人力资本（Human Capital）咨询业务，是 Deloitte 把商业心理学研究成果转化为可大规模咨询交付工具的代表。原始问卷工具开发自 2000s 后期 Deloitte 内部的 Human Capital 团队 [需核实]。需要指出：商业心理学的人格类型研究有很长历史（MBTI 1940s、Big Five 1980s、Hogan Assessments 等），Business Chemistry 在该脉络下的具体理论原创度与可署名的学术合作 [争议]。
 
 Deloitte 的策略与运营咨询业务长期通过"人力资本 + 战略 + 运营"交叉视角进入大型组织变革项目，Business Chemistry 主要被用于变革项目的"人际与团队"环节 [需核实]。
 
@@ -110,4 +110,10 @@ Deloitte 的策略与运营咨询业务长期通过"人力资本 + 战略 + 运�
 
 **AI 建议**：
 
-<!-- AI 在此提供建议。所有者原话在上方，AI 不覆盖。 -->
+<!-- 以下是 AI 在 fact-check 后提供的候选角度供所有者参考，非所有者原话。所有者可选用、修改、或完全弃用。 -->
+
+- **应用角度**：你最近做过的团队诊断里，Business Chemistry 这类风格诊断 vs MBTI vs Big Five 哪个最有效？三者的边界在哪里？风格诊断 vs 性格评估（更深、更稳）vs 行为评估（更具体）——你做项目时怎么选？
+- **争议延伸**：本卡片提到 "商业心理学的诸多模型历史更长、文献更厚——Business Chemistry 的独立理论贡献度 [争议]"。这是 MBTI / Big Five / Hogan 等学派与 Business Chemistry 之间的常见对比。你的客户里，谁会偏好 BC、谁会偏好 MBTI？为什么？
+- **"催化者"等命名偏见**：本卡片提到 "催化者等类型的命名带有正向价值暗示，可能影响被评者的自我认同"。这是个有意思的伦理问题——积极命名的分类工具（Catalyst、Visionary）会让"被分为分析者"的人感觉不好。你见过如何处理这种影响？
+- **MBTI 与 BC 的根本区别**：本卡片没明说但隐含：MBTI 基于 Jung 八维，BC 基于 Deloitte 内部研究。两者都不基于 Big Five 五因子模型。你在做风格诊断时，会选"类型学"（把人分 4 / 16 类）还是"维度学"（人在 5 维度上各打分）？两种哲学的取舍是什么？
+- **个人使用史**：你见过最有效的"团队风格诊断"项目——Business Chemistry 或其他——是否带来了行为改变？或者见过"诊断完了，但团队运作不变"的失败模式？
