@@ -46,7 +46,7 @@
 
 | 名称 | 公司 | 提出年份 | 状态 |
 |---|---|---|---|
-| 波特五力 | Michael Porter (Harvard) | 1979 | draft |
+| 波特五力 | Michael Porter (Harvard) | 1979 | annotated |
 | 价值链分析 | Michael Porter (Harvard) | 1985 | draft |
 | PESTEL 分析 | industry-wide / Francis Aguilar | 1967 | draft |
 | 客户费力度评分 | CEBM / industry-wide | 2010 | draft |
