@@ -17,7 +17,7 @@
 | 明托金字塔原理 | Barbara Minto | 1973 | draft |
 | BCG 经验曲线 | Boston Consulting Group | 1968 | draft |
 | 麦肯锡三horizons增长框架 | McKinsey & Company | 1999 | draft |
-| 波特三战略 | Michael Porter (Harvard) | 1980 | draft |
+| 波特三战略 | Michael Porter (Harvard) | 1980 | annotated |
 | BCG 智能简化 | Boston Consulting Group | 2013 | draft |
 | 贝恩可复制业务模型 | Bain & Company | 2005 | draft |
 | Monitor 三测试 | Monitor Group | 1987 | draft |
