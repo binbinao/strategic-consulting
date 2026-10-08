@@ -7,7 +7,7 @@
 | 名称 | 公司 | 提出年份 | 状态 |
 |---|---|---|---|
 | 麦肯锡 7S | McKinsey & Company | 1978 | draft |
-| BCG 增长矩阵 | Boston Consulting Group | 1970 | draft |
+| BCG 增长矩阵 | Boston Consulting Group | 1970 | annotated |
 | 贝恩净推荐值体系 | Bain & Company | 2003 | draft |
 | 葛鲁伯星模型 | Jay Galbraith | 1970 | draft |
 | BCG 组织优势 | Boston Consulting Group | 1980 | draft |
