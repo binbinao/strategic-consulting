@@ -39,7 +39,7 @@
 
 | 名称 | 公司 | 提出年份 | 状态 |
 |---|---|---|---|
-| MECE / 议题树 | industry-wide / McKinsey | 1970 | draft |
+| MECE / 议题树 | industry-wide / McKinsey | 1970 | annotated |
 | 假设驱动问题解决 | industry-wide / McKinsey & Company | 1980 | draft |
 
 ## Tools
