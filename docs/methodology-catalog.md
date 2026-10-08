@@ -14,7 +14,7 @@
 | GE / 麦肯锡矩阵 | General Electric / McKinsey & Company | 1979 | draft |
 | 阿什里奇组合展示 | Ashridge | 1990 | draft |
 | ADL 矩阵 | Arthur D. Little | 1973 | draft |
-| 明托金字塔原理 | Barbara Minto | 1973 | annotated |
+| 明托金字塔原理 | Barbara Minto | 1987 | annotated |
 | BCG 经验曲线 | Boston Consulting Group | 1968 | draft |
 | 麦肯锡三horizons增长框架 | McKinsey & Company | 1999 | draft |
 | 波特三战略 | Michael Porter (Harvard) | 1980 | annotated |
