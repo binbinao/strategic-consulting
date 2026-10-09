@@ -48,7 +48,7 @@
 |---|---|---|---|
 | 波特五力 | Michael Porter (Harvard) | 1979 | annotated |
 | 价值链分析 | Michael Porter (Harvard) | 1985 | annotated |
-| PESTEL 分析 | industry-wide / Francis Aguilar | 1967 | draft |
+| PESTEL 分析 | industry-wide / Francis Aguilar | 1967 | annotated |
 | 客户费力度评分 | CEBM / industry-wide | 2010 | annotated |
 | 客户之声 | industry-wide | 1990 | annotated |
 | 奥纬咨询风险定价 | Oliver Wyman | 2010 | draft |
