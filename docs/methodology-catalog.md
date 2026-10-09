@@ -52,5 +52,5 @@
 | 客户费力度评分 | CEBM / industry-wide | 2010 | annotated |
 | 客户之声 | industry-wide | 1990 | annotated |
 | 奥纬咨询风险定价 | Oliver Wyman | 2010 | draft |
-| 安索夫矩阵 | Igor Ansoff | 1965 | draft |
+| 安索夫矩阵 | Igor Ansoff | 1965 | annotated |
 | 服务利润链 | James Heskett | 1994 | annotated |
