@@ -34,6 +34,7 @@ related_methods:
   - "[[pwc-fit-for-growth]]"
   - "[[lek-commercial-due-diligence]]"
   - "[[ansoff-matrix]]"
+  - "[[mckinsey-three-horizons]]"
 tags:
   - portfolio
   - strategy

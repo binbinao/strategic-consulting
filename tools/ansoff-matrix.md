@@ -28,6 +28,7 @@ related_methods:
   - "[[porters-five-forces]]"
   - "[[oc-c-where-to-play-how-to-win]]"
   - "[[bcg-growth-share-matrix]]"
+  - "[[mckinsey-three-horizons]]"
 tags:
   - growth
   - classic
