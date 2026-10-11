@@ -18,13 +18,13 @@
 | BCG 经验曲线 | Boston Consulting Group | 1968 | annotated |
 | 麦肯锡三horizons增长框架 | McKinsey & Company | 2000 | annotated |
 | 波特三战略 | Michael Porter (Harvard) | 1980 | annotated |
-| BCG 智能简化 | Boston Consulting Group | 2013 | draft |
-| 贝恩可复制业务模型 | Bain & Company | 2005 | draft |
+| BCG 智能简化 | Boston Consulting Group | 2013 | annotated |
+| 贝恩可复制业务模型 | Bain & Company | 2005 | annotated |
 | Monitor 三测试 | Monitor Group | 1987 | annotated |
 | ADL 价值迁移 | Adrian Slywotzky（Mercer Management Consulting） | 1996 | draft |
 | Booz 能力驱动战略 | Booz Allen Hamilton / Wharton Mack Institute | 2000 | draft |
-| 凯纳战略适配度 | A.T. Kearney | 2005 | draft |
-| OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | draft |
+| 凯纳战略适配度 | A.T. Kearney | 2005 | annotated |
+| OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | annotated |
 | 罗兰贝格高端战略 | Roland Berger | 2005 | draft |
 | 奥纬咨询企业风险管理 | Oliver Wyman | 2005 | draft |
 | PwC Strategy& 致胜成长 | Booz & Company / PwC Strategy& | 2008 | draft |

@@ -29,6 +29,7 @@ related_methods:
   - "[[monitor-three-tests]]"
   - "[[monitor-value-based-management]]"
   - "[[service-profit-chain]]"
+  - "[[bain-repeatable-model]]"
 tags:
   - customer-experience
   - metric

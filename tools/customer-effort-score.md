@@ -27,6 +27,7 @@ related_methods:
   - "[[bain-net-promoter-system]]"
   - "[[voice-of-customer]]"
   - "[[service-profit-chain]]"
+  - "[[bcg-smart-simplicity]]"
 tags:
   - customer-experience
   - metric
