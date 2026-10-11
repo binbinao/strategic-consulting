@@ -35,6 +35,7 @@ related_methods:
   - "[[lek-commercial-due-diligence]]"
   - "[[ansoff-matrix]]"
   - "[[mckinsey-three-horizons]]"
+  - "[[bcg-organizational-advantage]]"
 tags:
   - portfolio
   - strategy
