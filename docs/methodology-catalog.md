@@ -26,10 +26,10 @@
 | 凯纳战略适配度 | A.T. Kearney | 2005 | annotated |
 | OC&C Where to Play / How to Win | OC&C Strategy Consultants | 2005 | annotated |
 | 罗兰贝格高端战略 | Roland Berger | 2005 | annotated |
-| 奥纬咨询企业风险管理 | Oliver Wyman | 2005 | draft |
+| 奥纬咨询企业风险管理 | Oliver Wyman | 2005 | annotated |
 | PwC Strategy& 致胜成长 | Booz & Company / PwC Strategy& | 2008 | annotated |
-| EY-Parthenon 多边平台战略 | Parthenon Group / EY-Parthenon | 2010 | draft |
-| Deloitte 商业化学反应 | Deloitte | 2014 | draft |
+| EY-Parthenon 多边平台战略 | Parthenon Group / EY-Parthenon | 2010 | annotated |
+| Deloitte 商业化学反应 | Deloitte | 2018 | annotated |
 | Accenture Industry X | Accenture Strategy | 2017 | draft |
 | L.E.K. 商业尽职调查 | L.E.K. Consulting | 1990 | draft |
 | Monitor 价值管理 | Monitor Group | 1995 | draft |
@@ -51,6 +51,6 @@
 | PESTEL 分析 | industry-wide / Francis Aguilar | 1967 | annotated |
 | 客户费力度评分 | CEBM / industry-wide | 2010 | annotated |
 | 客户之声 | industry-wide | 1990 | annotated |
-| 奥纬咨询风险定价 | Oliver Wyman | 2010 | draft |
+| 奥纬咨询风险定价 | Oliver Wyman | 2010 | annotated |
 | 安索夫矩阵 | Igor Ansoff | 1965 | annotated |
 | 服务利润链 | James Heskett | 1994 | annotated |
