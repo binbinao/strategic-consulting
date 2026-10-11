@@ -32,6 +32,7 @@ related_methods:
   - "[[roland-berger-premium-strategy]]"
   - "[[ey-parthenon-multi-sided-platform]]"
   - "[[accenture-industry-x]]"
+  - "[[lek-commercial-due-diligence]]"
 tags:
   - strategy
   - positioning

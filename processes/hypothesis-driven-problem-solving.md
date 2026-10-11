@@ -27,6 +27,7 @@ limitations:
   - "[争议] 假设驱动 vs. 数据驱动：学术界倾向后者的严谨性，咨询业倾向前者的速度"
 related_methods:
   - "[[mece]]"
+  - "[[mckinsey-profitability-tree]]"
 tags:
   - problem-solving
   - process

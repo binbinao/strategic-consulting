@@ -31,6 +31,7 @@ related_methods:
   - "[[booz-capabilities-driven-strategy]]"
   - "[[bcg-growth-share-matrix]]"
   - "[[value-chain]]"
+  - "[[monitor-value-based-management]]"
 tags:
   - strategy
   - growth

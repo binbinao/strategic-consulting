@@ -30,10 +30,10 @@
 | PwC Strategy& 致胜成长 | Booz & Company / PwC Strategy& | 2008 | annotated |
 | EY-Parthenon 多边平台战略 | Parthenon Group / EY-Parthenon | 2010 | annotated |
 | Deloitte 商业化学反应 | Deloitte | 2018 | annotated |
-| Accenture Industry X | Accenture Strategy | 2017 | draft |
-| L.E.K. 商业尽职调查 | L.E.K. Consulting | 1990 | draft |
-| Monitor 价值管理 | Monitor Group | 1995 | draft |
-| 麦肯锡盈利树 | McKinsey & Company | 2000 | draft |
+| Accenture Industry X | Accenture Strategy | 2017 | annotated |
+| L.E.K. 商业尽职调查 | L.E.K. Consulting | 1990 | annotated |
+| Monitor 价值管理 | Monitor Group | 1995 | annotated |
+| 麦肯锡盈利树 | McKinsey & Company | 2000 | annotated |
 
 ## Processes
 
