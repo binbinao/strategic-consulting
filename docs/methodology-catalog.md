@@ -12,15 +12,15 @@
 | 葛鲁伯星模型 | Jay Galbraith | 1970 | annotated |
 | BCG 组织优势 | Boston Consulting Group | 1980 | annotated |
 | GE / 麦肯锡矩阵 | General Electric / McKinsey & Company | 1979 | annotated |
-| 阿什里奇组合展示 | Ashridge | 1990 | draft |
-| ADL 矩阵 | Arthur D. Little | 1973 | draft |
+| 阿什里奇组合展示 | Ashridge | 1990 | annotated |
+| ADL 矩阵 | Arthur D. Little | 1973 | annotated |
 | 明托金字塔原理 | Barbara Minto | 1987 | annotated |
-| BCG 经验曲线 | Boston Consulting Group | 1968 | draft |
+| BCG 经验曲线 | Boston Consulting Group | 1968 | annotated |
 | 麦肯锡三horizons增长框架 | McKinsey & Company | 2000 | annotated |
 | 波特三战略 | Michael Porter (Harvard) | 1980 | annotated |
 | BCG 智能简化 | Boston Consulting Group | 2013 | draft |
 | 贝恩可复制业务模型 | Bain & Company | 2005 | draft |
-| Monitor 三测试 | Monitor Group | 1987 | draft |
+| Monitor 三测试 | Monitor Group | 1987 | annotated |
 | ADL 价值迁移 | Adrian Slywotzky（Mercer Management Consulting） | 1996 | draft |
 | Booz 能力驱动战略 | Booz Allen Hamilton / Wharton Mack Institute | 2000 | draft |
 | 凯纳战略适配度 | A.T. Kearney | 2005 | draft |
