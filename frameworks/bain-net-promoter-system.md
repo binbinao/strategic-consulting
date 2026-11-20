@@ -30,6 +30,7 @@ related_methods:
   - "[[monitor-value-based-management]]"
   - "[[service-profit-chain]]"
   - "[[bain-repeatable-model]]"
+  - "[[balanced-scorecard]]"
 tags:
   - customer-experience
   - metric

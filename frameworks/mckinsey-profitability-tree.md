@@ -28,6 +28,7 @@ related_methods:
   - "[[bcg-experience-curve]]"
   - "[[value-chain]]"
   - "[[mckinsey-7s]]"
+  - "[[balanced-scorecard]]"
 tags:
   - diagnostic
   - finance

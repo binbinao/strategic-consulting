@@ -26,6 +26,7 @@ limitations:
 related_methods:
   - "[[bcg-growth-share-matrix]]"
   - "[[ansoff-matrix]]"
+  - "[[scenario-planning]]"
 tags:
   - growth
   - innovation

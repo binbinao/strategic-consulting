@@ -29,6 +29,7 @@ related_methods:
   - "[[oc-c-where-to-play-how-to-win]]"
   - "[[bcg-growth-share-matrix]]"
   - "[[mckinsey-three-horizons]]"
+  - "[[blue-ocean-strategy]]"
 tags:
   - growth
   - classic

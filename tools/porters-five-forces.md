@@ -29,6 +29,8 @@ related_methods:
   - "[[ey-parthenon-multi-sided-platform]]"
   - "[[lek-commercial-due-diligence]]"
   - "[[ansoff-matrix]]"
+  - "[[swot-analysis]]"
+  - "[[blue-ocean-strategy]]"
 tags:
   - industry-analysis
   - strategy

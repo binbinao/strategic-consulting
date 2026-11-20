@@ -28,6 +28,7 @@ related_methods:
   - "[[value-chain]]"
   - "[[pestel]]"
   - "[[adl-matrix]]"
+  - "[[blue-ocean-strategy]]"
 tags:
   - strategy
   - value

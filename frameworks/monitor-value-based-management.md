@@ -28,6 +28,7 @@ related_methods:
   - "[[bain-net-promoter-system]]"
   - "[[bcg-experience-curve]]"
   - "[[lek-commercial-due-diligence]]"
+  - "[[balanced-scorecard]]"
 tags:
   - value
   - finance

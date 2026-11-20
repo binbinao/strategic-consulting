@@ -123,7 +123,7 @@ python3 -m pytest tests/ -v
 
 ## 已收录方法论
 
-当前共 **38 张**：28 个 framework + 2 个 process + 8 个 tool，覆盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法，老牌战略所（Monitor / ADL / Booz / Kearney / OC&C / Roland Berger / Oliver Wyman）的招牌方法，以及本批次新加入的四大咨询公司招牌方法（Deloitte / Accenture Strategy / PwC Strategy& / EY-Parthenon）。本批次（第九批）补齐了 L.E.K. 这家唯一缺卡片的战略顾问所，并新增 2 张跨行业经典工具（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
+当前共 **42 张**：31 个 framework + 2 个 process + 9 个 tool（第十批新增 SWOT 分析、平衡计分卡、蓝海战略、情景规划），覆盖 MBB（McKinsey、BCG、Bain）主要招牌方法、Porter 竞争战略体系、四大工具类方法，老牌战略所（Monitor / ADL / Booz / Kearney / OC&C / Roland Berger / Oliver Wyman）的招牌方法，以及本批次新加入的四大咨询公司招牌方法（Deloitte / Accenture Strategy / PwC Strategy& / EY-Parthenon）。本批次（第九批）补齐了 L.E.K. 这家唯一缺卡片的战略顾问所，并新增 2 张跨行业经典工具（详见完整清单 [`docs/methodology-catalog.md`](docs/methodology-catalog.md) 与 [`by-company/`](by-company/) 索引）。
 
 **第九批新增（5 张跨公司补强 / 经典工具）**：
 
@@ -147,7 +147,7 @@ python3 -m pytest tests/ -v
 
 ## 路线图
 
-**前九批已交付**（共 38 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
+**前九批 + 第十批经典补齐已交付**（共 42 张卡片，所有 `related_methods` 双向链接闭环），后续推进顺序自由：
 
 1. **首批卡片的 fact-check + 个人批注**（所有者主导）—— 跑通 owner 端完整流程
 2. **覆盖 MBB + 四大其他招牌方法**——前三批已铺底 BCG Experience Curve、Smart Simplicity、Porter Generic Strategies、Bain Repeatable Model 等；下一步可补 BCG / Bain 漏网方法（如 BCG Time-Based Competition）

@@ -30,6 +30,8 @@ related_methods:
   - "[[adl-value-migration]]"
   - "[[oliver-wyman-risk-based-pricing]]"
   - "[[oliver-wyman-enterprise-risk-management]]"
+  - "[[swot-analysis]]"
+  - "[[scenario-planning]]"
 tags:
   - macro-environment
   - strategy
@@ -86,8 +88,9 @@ status: annotated
 
 - **互补**：Porter 五力分析行业层面吸引力，PESTEL 分析宏观环境颠覆力
 - **替代/简版**：PEST（4 维）、STEEP（5 维）是 PESTEL 的不同简化版本
-- **应用层**：SWOT 中的"机会 / 威胁"部分常由 PESTEL 推演得到
+- **应用层**：[[swot-analysis]] 中的"机会 / 威胁"部分常由 PESTEL 推演得到
 - **扩展**：STEEPLED 等进一步加入 Ethics / Demographics 等维度 [需核实]
+- **延伸**：情景规划用 PESTEL 式扫描识别关键驱动力，见 [[scenario-planning]]
 
 ## 个人批注
 

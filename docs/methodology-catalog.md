@@ -34,6 +34,9 @@
 | L.E.K. 商业尽职调查 | L.E.K. Consulting | 1990 | annotated |
 | Monitor 价值管理 | Monitor Group | 1995 | annotated |
 | 麦肯锡盈利树 | McKinsey & Company | 2000 | annotated |
+| 平衡计分卡 | Robert Kaplan / David Norton (Harvard) | 1992 | annotated |
+| 蓝海战略 | INSEAD（Kim & Mauborgne） | 2005 | annotated |
+| 情景规划 | Royal Dutch Shell（源头 RAND / Herman Kahn） | 1972 | annotated |
 
 ## Processes
 
@@ -54,3 +57,4 @@
 | 奥纬咨询风险定价 | Oliver Wyman | 2010 | annotated |
 | 安索夫矩阵 | Igor Ansoff | 1965 | annotated |
 | 服务利润链 | James Heskett | 1994 | annotated |
+| SWOT 分析 | industry-wide | 1964 | annotated |

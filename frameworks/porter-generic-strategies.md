@@ -33,6 +33,8 @@ related_methods:
   - "[[ey-parthenon-multi-sided-platform]]"
   - "[[accenture-industry-x]]"
   - "[[lek-commercial-due-diligence]]"
+  - "[[swot-analysis]]"
+  - "[[blue-ocean-strategy]]"
 tags:
   - strategy
   - positioning

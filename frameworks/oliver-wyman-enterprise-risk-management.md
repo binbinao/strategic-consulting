@@ -27,6 +27,7 @@ related_methods:
   - "[[porters-five-forces]]"
   - "[[pestel]]"
   - "[[oliver-wyman-risk-based-pricing]]"
+  - "[[scenario-planning]]"
 tags:
   - risk
   - strategy
