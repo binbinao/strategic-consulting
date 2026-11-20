@@ -156,7 +156,7 @@ python3 -m pytest tests/ -v
 5. **跨行业经典工具补强**——第九批新增安索夫矩阵、服务利润链两张广为流传的跨公司工具，本路线图项已完结
 6. **中文本土咨询方法**（远期）—— 君智、华与华、和君、华夏基石等是否单独一层？见 spec §14
 
-**下一步方向（待定）**：补深度阶段（depth-filling）已基本完成，下一阶段建议转向**所有者的 fact-check 与个人批注层**——为现有 38 张卡片逐一跑通 owner 端流程（事实核查 → 个人批注 → status 流转至 `fact-checked` / `annotated`）。新增卡片节奏可放慢至按 owner 反馈触发。
+**当前状态**：42 张卡全部完成个人批注层（AI 代笔草稿、owner 保留改写否决权），配套学习材料已就位：[学习路线指南](docs/learning-guide.md) · [术语表](docs/glossary.md) · [框架选用指南](docs/framework-selection-guide.md) · [阅读线演示文稿](presentations/)。下一步建议：owner 逐卡复核批注并行使否决权；OC&C 卡事实层仍待交叉核对。
 
 **已明确延后的字段**（spec §14）：`case_examples`、`evolution_history`、单独的 `comparisons/` 目录。
 
@@ -175,3 +175,10 @@ python3 -m pytest tests/ -v
 ---
 
 整理不易，欢迎 Issue 提具体方法论补充建议（但需附原始出处，本项目不为未经验证的方法背书）。
+
+## 学习材料与配套演示
+
+- [docs/learning-guide.md](docs/learning-guide.md) —— 学习路线指南：六条阅读线、入门顺序、作业清单
+- [docs/glossary.md](docs/glossary.md) —— 术语表：中英对照，按主题分组
+- [docs/framework-selection-guide.md](docs/framework-selection-guide.md) —— 框架选用指南：场景 → 工具映射与误用提醒
+- [presentations/](presentations/) —— 六条阅读线 mini deck（可编辑 .pptx）
